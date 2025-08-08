@@ -1,0 +1,4902 @@
+[
+  {
+    "SensorID": 1009,
+    "Timestamp": "2024-04-03 23:54:58",
+    "ReadingType": "Vibration",
+    "Value": 169.82,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1027,
+    "Timestamp": "2024-02-04 22:50:45",
+    "ReadingType": "Vibration",
+    "Value": 229.25,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1055,
+    "Timestamp": "2024-03-04 07:41:34",
+    "ReadingType": "Pressure",
+    "Value": 259.26,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1057,
+    "Timestamp": "2024-03-14 03:16:57",
+    "ReadingType": "Vibration",
+    "Value": 312.92,
+    "MachineID": 538
+  },
+  {
+    "SensorID": 1098,
+    "Timestamp": "2024-04-28 08:59:50",
+    "ReadingType": "Pressure",
+    "Value": 174.76,
+    "MachineID": 532
+  },
+  {
+    "SensorID": 1074,
+    "Timestamp": "2024-01-13 02:06:27",
+    "ReadingType": "Pressure",
+    "Value": 104.39,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1039,
+    "Timestamp": "2024-01-18 22:33:48",
+    "ReadingType": "Vibration",
+    "Value": 497.32,
+    "MachineID": 521
+  },
+  {
+    "SensorID": 1062,
+    "Timestamp": "2024-03-03 15:46:36",
+    "ReadingType": "Pressure",
+    "Value": 103.99,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1000,
+    "Timestamp": "2024-03-23 09:08:10",
+    "ReadingType": "Temperature",
+    "Value": 286.08,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1095,
+    "Timestamp": "2024-02-15 14:46:56",
+    "ReadingType": "Pressure",
+    "Value": 256.56,
+    "MachineID": 546
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-01-30 17:37:36",
+    "ReadingType": "Vibration",
+    "Value": 189.79,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1014,
+    "Timestamp": "2024-02-20 16:20:52",
+    "ReadingType": "Pressure",
+    "Value": 107.26,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1082,
+    "Timestamp": "2024-02-21 17:51:38",
+    "ReadingType": "Temperature",
+    "Value": 499.16,
+    "MachineID": 520
+  },
+  {
+    "SensorID": 1017,
+    "Timestamp": "2024-02-28 22:36:00",
+    "ReadingType": "Temperature",
+    "Value": 217.52,
+    "MachineID": 521
+  },
+  {
+    "SensorID": 1026,
+    "Timestamp": "2024-04-08 21:56:26",
+    "ReadingType": "Vibration",
+    "Value": 67.5,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-02-25 23:37:29",
+    "ReadingType": "Pressure",
+    "Value": 263.7,
+    "MachineID": 541
+  },
+  {
+    "SensorID": 1090,
+    "Timestamp": "2024-02-02 08:50:47",
+    "ReadingType": "Pressure",
+    "Value": 199.07,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1047,
+    "Timestamp": "2024-01-07 13:16:59",
+    "ReadingType": "Pressure",
+    "Value": 184.37,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1068,
+    "Timestamp": "2024-02-19 16:33:54",
+    "ReadingType": "Pressure",
+    "Value": 298.3,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1037,
+    "Timestamp": "2024-04-08 05:43:12",
+    "ReadingType": "Temperature",
+    "Value": 267.4,
+    "MachineID": 544
+  },
+  {
+    "SensorID": 1016,
+    "Timestamp": "2024-02-29 21:09:38",
+    "ReadingType": "Pressure",
+    "Value": 44.2,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1087,
+    "Timestamp": "2024-01-31 16:21:44",
+    "ReadingType": "Temperature",
+    "Value": 153.52,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1008,
+    "Timestamp": "2024-01-17 01:10:23",
+    "ReadingType": "Pressure",
+    "Value": 182.26,
+    "MachineID": 540
+  },
+  {
+    "SensorID": 1032,
+    "Timestamp": "2024-01-11 21:24:07",
+    "ReadingType": "Pressure",
+    "Value": 496.71,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1075,
+    "Timestamp": "2024-03-18 19:07:03",
+    "ReadingType": "Temperature",
+    "Value": 14.46,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1042,
+    "Timestamp": "2024-03-11 19:40:40",
+    "ReadingType": "Pressure",
+    "Value": 99.43,
+    "MachineID": 528
+  },
+  {
+    "SensorID": 1017,
+    "Timestamp": "2024-02-28 04:32:49",
+    "ReadingType": "Pressure",
+    "Value": 397.38,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1022,
+    "Timestamp": "2024-02-23 17:37:04",
+    "ReadingType": "Temperature",
+    "Value": 112.93,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1081,
+    "Timestamp": "2024-01-31 02:01:25",
+    "ReadingType": "Temperature",
+    "Value": 100.57,
+    "MachineID": 542
+  },
+  {
+    "SensorID": 1026,
+    "Timestamp": "2024-03-07 10:09:14",
+    "ReadingType": "Vibration",
+    "Value": 471.9,
+    "MachineID": 531
+  },
+  {
+    "SensorID": 1052,
+    "Timestamp": "2024-04-14 12:51:20",
+    "ReadingType": "Vibration",
+    "Value": 304.09,
+    "MachineID": 519
+  },
+  {
+    "SensorID": 1014,
+    "Timestamp": "2024-04-01 06:04:01",
+    "ReadingType": "Temperature",
+    "Value": 304.09,
+    "MachineID": 550
+  },
+  {
+    "SensorID": 1000,
+    "Timestamp": "2024-03-08 22:17:08",
+    "ReadingType": "Pressure",
+    "Value": 13.28,
+    "MachineID": 503
+  },
+  {
+    "SensorID": 1028,
+    "Timestamp": "2024-01-22 23:49:59",
+    "ReadingType": "Vibration",
+    "Value": 498.17,
+    "MachineID": 538
+  },
+  {
+    "SensorID": 1024,
+    "Timestamp": "2024-01-05 00:20:38",
+    "ReadingType": "Vibration",
+    "Value": 356.53,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1093,
+    "Timestamp": "2024-03-04 03:37:10",
+    "ReadingType": "Temperature",
+    "Value": 64.92,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1006,
+    "Timestamp": "2024-01-12 21:38:23",
+    "ReadingType": "Vibration",
+    "Value": 76.11,
+    "MachineID": 521
+  },
+  {
+    "SensorID": 1004,
+    "Timestamp": "2024-01-09 14:17:30",
+    "ReadingType": "Vibration",
+    "Value": 95.69,
+    "MachineID": 521
+  },
+  {
+    "SensorID": 1031,
+    "Timestamp": "2024-01-29 19:09:25",
+    "ReadingType": "Temperature",
+    "Value": 369.99,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1051,
+    "Timestamp": "2024-01-30 15:22:24",
+    "ReadingType": "Temperature",
+    "Value": 185.21,
+    "MachineID": 545
+  },
+  {
+    "SensorID": 1067,
+    "Timestamp": "2024-03-22 04:52:39",
+    "ReadingType": "Vibration",
+    "Value": 27.4,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1067,
+    "Timestamp": "2024-04-16 00:52:59",
+    "ReadingType": "Vibration",
+    "Value": 149.0,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1096,
+    "Timestamp": "2024-04-26 09:06:55",
+    "ReadingType": "Vibration",
+    "Value": 499.55,
+    "MachineID": 528
+  },
+  {
+    "SensorID": 1065,
+    "Timestamp": "2024-03-08 17:49:21",
+    "ReadingType": "Pressure",
+    "Value": 223.72,
+    "MachineID": 519
+  },
+  {
+    "SensorID": 1056,
+    "Timestamp": "2024-04-20 06:25:58",
+    "ReadingType": "Pressure",
+    "Value": 322.43,
+    "MachineID": 540
+  },
+  {
+    "SensorID": 1011,
+    "Timestamp": "2024-02-16 23:34:26",
+    "ReadingType": "Vibration",
+    "Value": 199.44,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1060,
+    "Timestamp": "2024-03-03 06:33:53",
+    "ReadingType": "Vibration",
+    "Value": 411.08,
+    "MachineID": 503
+  },
+  {
+    "SensorID": 1026,
+    "Timestamp": "2024-02-24 08:49:18",
+    "ReadingType": "Pressure",
+    "Value": 402.98,
+    "MachineID": 508
+  },
+  {
+    "SensorID": 1076,
+    "Timestamp": "2024-01-20 20:22:30",
+    "ReadingType": "Vibration",
+    "Value": 36.71,
+    "MachineID": 544
+  },
+  {
+    "SensorID": 1071,
+    "Timestamp": "2024-04-27 16:20:54",
+    "ReadingType": "Pressure",
+    "Value": 399.18,
+    "MachineID": 526
+  },
+  {
+    "SensorID": 1025,
+    "Timestamp": "2024-01-16 02:34:49",
+    "ReadingType": "Vibration",
+    "Value": 227.55,
+    "MachineID": 505
+  },
+  {
+    "SensorID": 1079,
+    "Timestamp": "2024-03-07 10:09:36",
+    "ReadingType": "Pressure",
+    "Value": 95.08,
+    "MachineID": 546
+  },
+  {
+    "SensorID": 1073,
+    "Timestamp": "2024-01-21 01:08:29",
+    "ReadingType": "Temperature",
+    "Value": 152.99,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1062,
+    "Timestamp": "2024-02-29 20:38:16",
+    "ReadingType": "Temperature",
+    "Value": 436.3,
+    "MachineID": 539
+  },
+  {
+    "SensorID": 1018,
+    "Timestamp": "2024-03-06 01:41:09",
+    "ReadingType": "Pressure",
+    "Value": 463.61,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1028,
+    "Timestamp": "2024-04-21 21:41:54",
+    "ReadingType": "Temperature",
+    "Value": 160.19,
+    "MachineID": 545
+  },
+  {
+    "SensorID": 1030,
+    "Timestamp": "2024-02-21 06:29:26",
+    "ReadingType": "Pressure",
+    "Value": 484.56,
+    "MachineID": 531
+  },
+  {
+    "SensorID": 1075,
+    "Timestamp": "2024-01-08 13:31:58",
+    "ReadingType": "Vibration",
+    "Value": 377.97,
+    "MachineID": 503
+  },
+  {
+    "SensorID": 1042,
+    "Timestamp": "2024-04-07 06:57:36",
+    "ReadingType": "Temperature",
+    "Value": 497.03,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1036,
+    "Timestamp": "2024-02-22 03:46:22",
+    "ReadingType": "Pressure",
+    "Value": 39.82,
+    "MachineID": 512
+  },
+  {
+    "SensorID": 1063,
+    "Timestamp": "2024-03-18 22:06:00",
+    "ReadingType": "Vibration",
+    "Value": 488.09,
+    "MachineID": 549
+  },
+  {
+    "SensorID": 1013,
+    "Timestamp": "2024-02-27 06:25:33",
+    "ReadingType": "Temperature",
+    "Value": 291.48,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1090,
+    "Timestamp": "2024-04-10 05:15:57",
+    "ReadingType": "Vibration",
+    "Value": 363.56,
+    "MachineID": 519
+  },
+  {
+    "SensorID": 1013,
+    "Timestamp": "2024-04-08 12:04:03",
+    "ReadingType": "Pressure",
+    "Value": 169.27,
+    "MachineID": 540
+  },
+  {
+    "SensorID": 1094,
+    "Timestamp": "2024-02-04 11:37:54",
+    "ReadingType": "Vibration",
+    "Value": 469.95,
+    "MachineID": 505
+  },
+  {
+    "SensorID": 1062,
+    "Timestamp": "2024-04-25 02:49:07",
+    "ReadingType": "Pressure",
+    "Value": 185.12,
+    "MachineID": 546
+  },
+  {
+    "SensorID": 1028,
+    "Timestamp": "2024-04-05 01:29:16",
+    "ReadingType": "Vibration",
+    "Value": 193.19,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1012,
+    "Timestamp": "2024-03-10 13:17:43",
+    "ReadingType": "Pressure",
+    "Value": 414.58,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1076,
+    "Timestamp": "2024-02-26 18:55:33",
+    "ReadingType": "Temperature",
+    "Value": 16.0,
+    "MachineID": 535
+  },
+  {
+    "SensorID": 1002,
+    "Timestamp": "2024-03-18 17:48:52",
+    "ReadingType": "Vibration",
+    "Value": 94.44,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1035,
+    "Timestamp": "2024-02-05 15:19:01",
+    "ReadingType": "Vibration",
+    "Value": 235.96,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1016,
+    "Timestamp": "2024-01-06 10:00:12",
+    "ReadingType": "Temperature",
+    "Value": 125.6,
+    "MachineID": 549
+  },
+  {
+    "SensorID": 1075,
+    "Timestamp": "2024-01-13 08:48:31",
+    "ReadingType": "Temperature",
+    "Value": 488.71,
+    "MachineID": 507
+  },
+  {
+    "SensorID": 1060,
+    "Timestamp": "2024-02-19 23:06:31",
+    "ReadingType": "Vibration",
+    "Value": 403.59,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1000,
+    "Timestamp": "2024-01-30 03:21:44",
+    "ReadingType": "Temperature",
+    "Value": 146.11,
+    "MachineID": 544
+  },
+  {
+    "SensorID": 1047,
+    "Timestamp": "2024-04-08 12:54:18",
+    "ReadingType": "Vibration",
+    "Value": 482.58,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1072,
+    "Timestamp": "2024-03-12 15:42:53",
+    "ReadingType": "Pressure",
+    "Value": 451.31,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1061,
+    "Timestamp": "2024-04-09 20:14:40",
+    "ReadingType": "Temperature",
+    "Value": 69.31,
+    "MachineID": 512
+  },
+  {
+    "SensorID": 1018,
+    "Timestamp": "2024-01-16 12:48:19",
+    "ReadingType": "Pressure",
+    "Value": 380.6,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1084,
+    "Timestamp": "2024-01-20 20:05:25",
+    "ReadingType": "Temperature",
+    "Value": 307.31,
+    "MachineID": 541
+  },
+  {
+    "SensorID": 1035,
+    "Timestamp": "2024-04-04 00:53:26",
+    "ReadingType": "Vibration",
+    "Value": 132.04,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1003,
+    "Timestamp": "2024-04-21 05:21:36",
+    "ReadingType": "Pressure",
+    "Value": 239.33,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1075,
+    "Timestamp": "2024-03-11 12:35:08",
+    "ReadingType": "Temperature",
+    "Value": 342.5,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1029,
+    "Timestamp": "2024-01-01 12:16:42",
+    "ReadingType": "Pressure",
+    "Value": 434.12,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1023,
+    "Timestamp": "2024-01-20 09:57:03",
+    "ReadingType": "Temperature",
+    "Value": 416.67,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1037,
+    "Timestamp": "2024-01-03 10:35:11",
+    "ReadingType": "Pressure",
+    "Value": 425.19,
+    "MachineID": 549
+  },
+  {
+    "SensorID": 1085,
+    "Timestamp": "2024-02-20 06:46:59",
+    "ReadingType": "Temperature",
+    "Value": 45.79,
+    "MachineID": 549
+  },
+  {
+    "SensorID": 1045,
+    "Timestamp": "2024-01-23 04:29:40",
+    "ReadingType": "Vibration",
+    "Value": 194.34,
+    "MachineID": 503
+  },
+  {
+    "SensorID": 1073,
+    "Timestamp": "2024-03-23 04:36:33",
+    "ReadingType": "Vibration",
+    "Value": 247.33,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1053,
+    "Timestamp": "2024-01-12 12:00:51",
+    "ReadingType": "Pressure",
+    "Value": 472.9,
+    "MachineID": 550
+  },
+  {
+    "SensorID": 1014,
+    "Timestamp": "2024-02-25 23:13:12",
+    "ReadingType": "Vibration",
+    "Value": 319.22,
+    "MachineID": 512
+  },
+  {
+    "SensorID": 1027,
+    "Timestamp": "2024-01-08 11:21:13",
+    "ReadingType": "Temperature",
+    "Value": 130.45,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1039,
+    "Timestamp": "2024-01-06 19:54:31",
+    "ReadingType": "Vibration",
+    "Value": 342.25,
+    "MachineID": 505
+  },
+  {
+    "SensorID": 1095,
+    "Timestamp": "2024-03-23 02:55:40",
+    "ReadingType": "Temperature",
+    "Value": 204.83,
+    "MachineID": 517
+  },
+  {
+    "SensorID": 1058,
+    "Timestamp": "2024-04-18 17:37:40",
+    "ReadingType": "Vibration",
+    "Value": 77.51,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1021,
+    "Timestamp": "2024-01-29 04:50:26",
+    "ReadingType": "Vibration",
+    "Value": 449.21,
+    "MachineID": 519
+  },
+  {
+    "SensorID": 1007,
+    "Timestamp": "2024-01-15 06:25:46",
+    "ReadingType": "Pressure",
+    "Value": 117.96,
+    "MachineID": 523
+  },
+  {
+    "SensorID": 1010,
+    "Timestamp": "2024-03-03 23:46:26",
+    "ReadingType": "Vibration",
+    "Value": 413.13,
+    "MachineID": 528
+  },
+  {
+    "SensorID": 1056,
+    "Timestamp": "2024-02-15 07:18:00",
+    "ReadingType": "Temperature",
+    "Value": 11.07,
+    "MachineID": 504
+  },
+  {
+    "SensorID": 1091,
+    "Timestamp": "2024-03-23 01:10:23",
+    "ReadingType": "Pressure",
+    "Value": 181.35,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1076,
+    "Timestamp": "2024-03-22 17:24:29",
+    "ReadingType": "Pressure",
+    "Value": 297.37,
+    "MachineID": 549
+  },
+  {
+    "SensorID": 1049,
+    "Timestamp": "2024-03-28 16:42:06",
+    "ReadingType": "Temperature",
+    "Value": 219.6,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1008,
+    "Timestamp": "2024-03-07 19:07:33",
+    "ReadingType": "Vibration",
+    "Value": 153.29,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1031,
+    "Timestamp": "2024-04-12 10:47:27",
+    "ReadingType": "Pressure",
+    "Value": 344.45,
+    "MachineID": 545
+  },
+  {
+    "SensorID": 1052,
+    "Timestamp": "2024-02-04 03:04:30",
+    "ReadingType": "Temperature",
+    "Value": 276.83,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1039,
+    "Timestamp": "2024-04-22 12:18:13",
+    "ReadingType": "Vibration",
+    "Value": 436.95,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1026,
+    "Timestamp": "2024-03-09 06:11:10",
+    "ReadingType": "Pressure",
+    "Value": 333.56,
+    "MachineID": 530
+  },
+  {
+    "SensorID": 1062,
+    "Timestamp": "2024-02-03 23:53:11",
+    "ReadingType": "Vibration",
+    "Value": 75.23,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1078,
+    "Timestamp": "2024-03-31 02:42:03",
+    "ReadingType": "Vibration",
+    "Value": 254.0,
+    "MachineID": 540
+  },
+  {
+    "SensorID": 1096,
+    "Timestamp": "2024-01-14 17:39:05",
+    "ReadingType": "Vibration",
+    "Value": 486.3,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1063,
+    "Timestamp": "2024-03-25 09:14:20",
+    "ReadingType": "Temperature",
+    "Value": 333.12,
+    "MachineID": 507
+  },
+  {
+    "SensorID": 1059,
+    "Timestamp": "2024-03-19 11:03:24",
+    "ReadingType": "Pressure",
+    "Value": 75.7,
+    "MachineID": 538
+  },
+  {
+    "SensorID": 1096,
+    "Timestamp": "2024-01-02 23:02:01",
+    "ReadingType": "Temperature",
+    "Value": 331.41,
+    "MachineID": 528
+  },
+  {
+    "SensorID": 1096,
+    "Timestamp": "2024-02-24 05:22:36",
+    "ReadingType": "Temperature",
+    "Value": 178.86,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1052,
+    "Timestamp": "2024-01-12 08:41:09",
+    "ReadingType": "Vibration",
+    "Value": 394.56,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1040,
+    "Timestamp": "2024-04-27 06:41:46",
+    "ReadingType": "Pressure",
+    "Value": 183.55,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1045,
+    "Timestamp": "2024-03-27 09:20:54",
+    "ReadingType": "Vibration",
+    "Value": 237.27,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1062,
+    "Timestamp": "2024-04-17 16:47:12",
+    "ReadingType": "Pressure",
+    "Value": 44.68,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1077,
+    "Timestamp": "2024-04-29 18:37:39",
+    "ReadingType": "Vibration",
+    "Value": 391.6,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1097,
+    "Timestamp": "2024-03-10 00:47:37",
+    "ReadingType": "Temperature",
+    "Value": 70.09,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1042,
+    "Timestamp": "2024-02-02 19:56:43",
+    "ReadingType": "Temperature",
+    "Value": 497.09,
+    "MachineID": 541
+  },
+  {
+    "SensorID": 1016,
+    "Timestamp": "2024-03-11 21:18:01",
+    "ReadingType": "Temperature",
+    "Value": 158.47,
+    "MachineID": 526
+  },
+  {
+    "SensorID": 1078,
+    "Timestamp": "2024-01-04 16:04:18",
+    "ReadingType": "Temperature",
+    "Value": 324.73,
+    "MachineID": 540
+  },
+  {
+    "SensorID": 1094,
+    "Timestamp": "2024-01-28 20:56:36",
+    "ReadingType": "Vibration",
+    "Value": 261.92,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1038,
+    "Timestamp": "2024-01-29 21:57:53",
+    "ReadingType": "Pressure",
+    "Value": 400.65,
+    "MachineID": 512
+  },
+  {
+    "SensorID": 1010,
+    "Timestamp": "2024-04-20 00:06:27",
+    "ReadingType": "Vibration",
+    "Value": 404.46,
+    "MachineID": 531
+  },
+  {
+    "SensorID": 1073,
+    "Timestamp": "2024-04-17 05:02:32",
+    "ReadingType": "Temperature",
+    "Value": 491.37,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1078,
+    "Timestamp": "2024-04-13 06:29:19",
+    "ReadingType": "Vibration",
+    "Value": 336.58,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1056,
+    "Timestamp": "2024-01-31 01:00:35",
+    "ReadingType": "Vibration",
+    "Value": 245.86,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1008,
+    "Timestamp": "2024-03-31 02:07:15",
+    "ReadingType": "Vibration",
+    "Value": 397.91,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-03-14 10:50:13",
+    "ReadingType": "Pressure",
+    "Value": 98.95,
+    "MachineID": 517
+  },
+  {
+    "SensorID": 1040,
+    "Timestamp": "2024-03-24 10:42:10",
+    "ReadingType": "Temperature",
+    "Value": 467.38,
+    "MachineID": 545
+  },
+  {
+    "SensorID": 1053,
+    "Timestamp": "2024-03-15 13:37:21",
+    "ReadingType": "Vibration",
+    "Value": 114.85,
+    "MachineID": 540
+  },
+  {
+    "SensorID": 1094,
+    "Timestamp": "2024-03-16 13:38:53",
+    "ReadingType": "Temperature",
+    "Value": 272.7,
+    "MachineID": 538
+  },
+  {
+    "SensorID": 1020,
+    "Timestamp": "2024-01-07 20:52:35",
+    "ReadingType": "Temperature",
+    "Value": 392.16,
+    "MachineID": 538
+  },
+  {
+    "SensorID": 1080,
+    "Timestamp": "2024-02-26 17:14:04",
+    "ReadingType": "Temperature",
+    "Value": 114.44,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1024,
+    "Timestamp": "2024-02-01 01:31:18",
+    "ReadingType": "Vibration",
+    "Value": 402.48,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1052,
+    "Timestamp": "2024-02-19 14:57:01",
+    "ReadingType": "Vibration",
+    "Value": 292.72,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-02-02 16:50:02",
+    "ReadingType": "Temperature",
+    "Value": 261.02,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1073,
+    "Timestamp": "2024-03-14 23:41:01",
+    "ReadingType": "Pressure",
+    "Value": 354.18,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1019,
+    "Timestamp": "2024-04-15 20:46:35",
+    "ReadingType": "Vibration",
+    "Value": 124.63,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1012,
+    "Timestamp": "2024-03-14 07:46:20",
+    "ReadingType": "Vibration",
+    "Value": 303.71,
+    "MachineID": 550
+  },
+  {
+    "SensorID": 1031,
+    "Timestamp": "2024-03-05 06:59:20",
+    "ReadingType": "Vibration",
+    "Value": 270.53,
+    "MachineID": 550
+  },
+  {
+    "SensorID": 1065,
+    "Timestamp": "2024-03-15 15:55:00",
+    "ReadingType": "Temperature",
+    "Value": 407.26,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1067,
+    "Timestamp": "2024-02-10 11:06:43",
+    "ReadingType": "Pressure",
+    "Value": 93.16,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1034,
+    "Timestamp": "2024-03-12 00:45:20",
+    "ReadingType": "Temperature",
+    "Value": 133.99,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1074,
+    "Timestamp": "2024-02-03 21:13:04",
+    "ReadingType": "Pressure",
+    "Value": 312.94,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1088,
+    "Timestamp": "2024-02-19 07:08:47",
+    "ReadingType": "Vibration",
+    "Value": 411.27,
+    "MachineID": 530
+  },
+  {
+    "SensorID": 1018,
+    "Timestamp": "2024-02-08 11:47:06",
+    "ReadingType": "Pressure",
+    "Value": 422.52,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1016,
+    "Timestamp": "2024-01-06 21:06:36",
+    "ReadingType": "Temperature",
+    "Value": 96.19,
+    "MachineID": 515
+  },
+  {
+    "SensorID": 1049,
+    "Timestamp": "2024-02-19 08:02:35",
+    "ReadingType": "Vibration",
+    "Value": 92.17,
+    "MachineID": 520
+  },
+  {
+    "SensorID": 1085,
+    "Timestamp": "2024-02-25 00:16:03",
+    "ReadingType": "Pressure",
+    "Value": 454.48,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1086,
+    "Timestamp": "2024-04-19 20:44:34",
+    "ReadingType": "Pressure",
+    "Value": 213.34,
+    "MachineID": 523
+  },
+  {
+    "SensorID": 1015,
+    "Timestamp": "2024-02-09 08:51:28",
+    "ReadingType": "Pressure",
+    "Value": 192.03,
+    "MachineID": 541
+  },
+  {
+    "SensorID": 1085,
+    "Timestamp": "2024-04-18 18:42:32",
+    "ReadingType": "Pressure",
+    "Value": 327.49,
+    "MachineID": 505
+  },
+  {
+    "SensorID": 1030,
+    "Timestamp": "2024-03-27 04:43:54",
+    "ReadingType": "Vibration",
+    "Value": 91.26,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1045,
+    "Timestamp": "2024-04-07 21:04:05",
+    "ReadingType": "Temperature",
+    "Value": 121.06,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1001,
+    "Timestamp": "2024-01-03 09:29:26",
+    "ReadingType": "Pressure",
+    "Value": 331.03,
+    "MachineID": 541
+  },
+  {
+    "SensorID": 1060,
+    "Timestamp": "2024-04-13 18:24:12",
+    "ReadingType": "Vibration",
+    "Value": 228.24,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1065,
+    "Timestamp": "2024-04-09 07:15:34",
+    "ReadingType": "Vibration",
+    "Value": 398.93,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1032,
+    "Timestamp": "2024-03-17 17:08:27",
+    "ReadingType": "Vibration",
+    "Value": 415.2,
+    "MachineID": 503
+  },
+  {
+    "SensorID": 1020,
+    "Timestamp": "2024-03-23 04:37:28",
+    "ReadingType": "Pressure",
+    "Value": 13.3,
+    "MachineID": 518
+  },
+  {
+    "SensorID": 1027,
+    "Timestamp": "2024-04-17 23:39:07",
+    "ReadingType": "Vibration",
+    "Value": 250.85,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1067,
+    "Timestamp": "2024-03-06 09:47:02",
+    "ReadingType": "Temperature",
+    "Value": 59.68,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1008,
+    "Timestamp": "2024-01-10 08:53:01",
+    "ReadingType": "Pressure",
+    "Value": 78.11,
+    "MachineID": 528
+  },
+  {
+    "SensorID": 1009,
+    "Timestamp": "2024-01-29 16:02:03",
+    "ReadingType": "Pressure",
+    "Value": 264.98,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1098,
+    "Timestamp": "2024-03-31 09:25:22",
+    "ReadingType": "Temperature",
+    "Value": 431.53,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1093,
+    "Timestamp": "2024-01-30 14:26:06",
+    "ReadingType": "Vibration",
+    "Value": 54.73,
+    "MachineID": 547
+  },
+  {
+    "SensorID": 1087,
+    "Timestamp": "2024-01-13 21:00:25",
+    "ReadingType": "Pressure",
+    "Value": 35.71,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1071,
+    "Timestamp": "2024-02-25 12:17:09",
+    "ReadingType": "Vibration",
+    "Value": 407.53,
+    "MachineID": 515
+  },
+  {
+    "SensorID": 1083,
+    "Timestamp": "2024-04-18 08:28:00",
+    "ReadingType": "Vibration",
+    "Value": 43.41,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1039,
+    "Timestamp": "2024-04-02 08:33:33",
+    "ReadingType": "Vibration",
+    "Value": 336.55,
+    "MachineID": 547
+  },
+  {
+    "SensorID": 1090,
+    "Timestamp": "2024-02-02 17:40:38",
+    "ReadingType": "Pressure",
+    "Value": 330.26,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1034,
+    "Timestamp": "2024-04-16 22:56:30",
+    "ReadingType": "Temperature",
+    "Value": 263.7,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1017,
+    "Timestamp": "2024-02-01 20:58:21",
+    "ReadingType": "Pressure",
+    "Value": 325.56,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1004,
+    "Timestamp": "2024-01-17 15:04:49",
+    "ReadingType": "Pressure",
+    "Value": 347.05,
+    "MachineID": 538
+  },
+  {
+    "SensorID": 1090,
+    "Timestamp": "2024-02-29 18:05:47",
+    "ReadingType": "Vibration",
+    "Value": 137.8,
+    "MachineID": 519
+  },
+  {
+    "SensorID": 1097,
+    "Timestamp": "2024-02-24 08:52:28",
+    "ReadingType": "Pressure",
+    "Value": 82.84,
+    "MachineID": 526
+  },
+  {
+    "SensorID": 1078,
+    "Timestamp": "2024-02-15 07:19:57",
+    "ReadingType": "Vibration",
+    "Value": 465.66,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1084,
+    "Timestamp": "2024-03-13 22:02:45",
+    "ReadingType": "Pressure",
+    "Value": 224.42,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1008,
+    "Timestamp": "2024-01-06 06:37:31",
+    "ReadingType": "Temperature",
+    "Value": 478.5,
+    "MachineID": 528
+  },
+  {
+    "SensorID": 1012,
+    "Timestamp": "2024-04-18 00:31:10",
+    "ReadingType": "Pressure",
+    "Value": 28.69,
+    "MachineID": 503
+  },
+  {
+    "SensorID": 1001,
+    "Timestamp": "2024-04-27 03:18:19",
+    "ReadingType": "Vibration",
+    "Value": 464.07,
+    "MachineID": 538
+  },
+  {
+    "SensorID": 1075,
+    "Timestamp": "2024-04-17 08:42:58",
+    "ReadingType": "Vibration",
+    "Value": 351.11,
+    "MachineID": 505
+  },
+  {
+    "SensorID": 1087,
+    "Timestamp": "2024-04-12 17:45:38",
+    "ReadingType": "Temperature",
+    "Value": 216.85,
+    "MachineID": 508
+  },
+  {
+    "SensorID": 1013,
+    "Timestamp": "2024-04-13 14:59:23",
+    "ReadingType": "Pressure",
+    "Value": 177.95,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1053,
+    "Timestamp": "2024-01-06 15:28:19",
+    "ReadingType": "Temperature",
+    "Value": 48.57,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1033,
+    "Timestamp": "2024-01-17 18:23:33",
+    "ReadingType": "Temperature",
+    "Value": 247.7,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1029,
+    "Timestamp": "2024-01-18 20:29:09",
+    "ReadingType": "Vibration",
+    "Value": 347.85,
+    "MachineID": 505
+  },
+  {
+    "SensorID": 1008,
+    "Timestamp": "2024-02-19 17:27:05",
+    "ReadingType": "Pressure",
+    "Value": 36.64,
+    "MachineID": 546
+  },
+  {
+    "SensorID": 1068,
+    "Timestamp": "2024-02-07 12:06:29",
+    "ReadingType": "Pressure",
+    "Value": 307.33,
+    "MachineID": 528
+  },
+  {
+    "SensorID": 1021,
+    "Timestamp": "2024-02-02 19:04:23",
+    "ReadingType": "Vibration",
+    "Value": 296.79,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1087,
+    "Timestamp": "2024-03-21 23:25:07",
+    "ReadingType": "Vibration",
+    "Value": 278.5,
+    "MachineID": 526
+  },
+  {
+    "SensorID": 1039,
+    "Timestamp": "2024-01-19 08:11:51",
+    "ReadingType": "Vibration",
+    "Value": 217.65,
+    "MachineID": 531
+  },
+  {
+    "SensorID": 1012,
+    "Timestamp": "2024-01-10 01:22:09",
+    "ReadingType": "Pressure",
+    "Value": 186.56,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1013,
+    "Timestamp": "2024-03-14 21:27:18",
+    "ReadingType": "Vibration",
+    "Value": 118.86,
+    "MachineID": 503
+  },
+  {
+    "SensorID": 1085,
+    "Timestamp": "2024-02-22 10:15:41",
+    "ReadingType": "Vibration",
+    "Value": 92.09,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1002,
+    "Timestamp": "2024-02-19 02:37:10",
+    "ReadingType": "Pressure",
+    "Value": 419.12,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1021,
+    "Timestamp": "2024-03-02 15:15:33",
+    "ReadingType": "Pressure",
+    "Value": 55.78,
+    "MachineID": 515
+  },
+  {
+    "SensorID": 1014,
+    "Timestamp": "2024-03-09 01:39:15",
+    "ReadingType": "Temperature",
+    "Value": 60.82,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1034,
+    "Timestamp": "2024-04-02 23:31:24",
+    "ReadingType": "Temperature",
+    "Value": 462.13,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1081,
+    "Timestamp": "2024-02-24 06:40:01",
+    "ReadingType": "Vibration",
+    "Value": 149.08,
+    "MachineID": 520
+  },
+  {
+    "SensorID": 1018,
+    "Timestamp": "2024-02-09 04:29:57",
+    "ReadingType": "Vibration",
+    "Value": 406.39,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1060,
+    "Timestamp": "2024-03-18 14:56:50",
+    "ReadingType": "Vibration",
+    "Value": 221.16,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1053,
+    "Timestamp": "2024-02-15 14:44:10",
+    "ReadingType": "Temperature",
+    "Value": 407.22,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1068,
+    "Timestamp": "2024-03-15 17:16:33",
+    "ReadingType": "Pressure",
+    "Value": 212.19,
+    "MachineID": 542
+  },
+  {
+    "SensorID": 1034,
+    "Timestamp": "2024-02-08 19:40:06",
+    "ReadingType": "Vibration",
+    "Value": 318.06,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1044,
+    "Timestamp": "2024-01-23 07:34:27",
+    "ReadingType": "Temperature",
+    "Value": 487.69,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1085,
+    "Timestamp": "2024-01-25 12:24:51",
+    "ReadingType": "Vibration",
+    "Value": 408.14,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1000,
+    "Timestamp": "2024-04-18 08:54:47",
+    "ReadingType": "Pressure",
+    "Value": 47.42,
+    "MachineID": 542
+  },
+  {
+    "SensorID": 1038,
+    "Timestamp": "2024-01-30 19:59:24",
+    "ReadingType": "Pressure",
+    "Value": 395.4,
+    "MachineID": 549
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-01-07 12:10:57",
+    "ReadingType": "Pressure",
+    "Value": 499.35,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1049,
+    "Timestamp": "2024-03-21 11:34:31",
+    "ReadingType": "Vibration",
+    "Value": 341.82,
+    "MachineID": 550
+  },
+  {
+    "SensorID": 1046,
+    "Timestamp": "2024-01-17 02:51:20",
+    "ReadingType": "Temperature",
+    "Value": 413.88,
+    "MachineID": 544
+  },
+  {
+    "SensorID": 1027,
+    "Timestamp": "2024-02-18 11:49:26",
+    "ReadingType": "Vibration",
+    "Value": 62.9,
+    "MachineID": 515
+  },
+  {
+    "SensorID": 1056,
+    "Timestamp": "2024-04-06 02:54:46",
+    "ReadingType": "Vibration",
+    "Value": 174.41,
+    "MachineID": 508
+  },
+  {
+    "SensorID": 1023,
+    "Timestamp": "2024-03-04 21:41:30",
+    "ReadingType": "Vibration",
+    "Value": 493.63,
+    "MachineID": 535
+  },
+  {
+    "SensorID": 1071,
+    "Timestamp": "2024-04-29 00:54:32",
+    "ReadingType": "Temperature",
+    "Value": 484.85,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1030,
+    "Timestamp": "2024-01-24 16:59:43",
+    "ReadingType": "Temperature",
+    "Value": 302.21,
+    "MachineID": 539
+  },
+  {
+    "SensorID": 1065,
+    "Timestamp": "2024-03-21 08:40:27",
+    "ReadingType": "Temperature",
+    "Value": 60.5,
+    "MachineID": 526
+  },
+  {
+    "SensorID": 1006,
+    "Timestamp": "2024-03-13 10:13:06",
+    "ReadingType": "Temperature",
+    "Value": 452.04,
+    "MachineID": 512
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-01-26 14:20:31",
+    "ReadingType": "Temperature",
+    "Value": 130.03,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1049,
+    "Timestamp": "2024-02-15 12:09:44",
+    "ReadingType": "Vibration",
+    "Value": 248.96,
+    "MachineID": 526
+  },
+  {
+    "SensorID": 1014,
+    "Timestamp": "2024-02-10 22:09:16",
+    "ReadingType": "Pressure",
+    "Value": 440.63,
+    "MachineID": 540
+  },
+  {
+    "SensorID": 1068,
+    "Timestamp": "2024-01-20 19:37:22",
+    "ReadingType": "Pressure",
+    "Value": 411.61,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1042,
+    "Timestamp": "2024-01-04 11:44:00",
+    "ReadingType": "Temperature",
+    "Value": 108.36,
+    "MachineID": 532
+  },
+  {
+    "SensorID": 1042,
+    "Timestamp": "2024-02-14 05:03:40",
+    "ReadingType": "Temperature",
+    "Value": 266.9,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1090,
+    "Timestamp": "2024-02-19 16:47:10",
+    "ReadingType": "Pressure",
+    "Value": 210.73,
+    "MachineID": 521
+  },
+  {
+    "SensorID": 1082,
+    "Timestamp": "2024-04-15 18:10:51",
+    "ReadingType": "Vibration",
+    "Value": 189.84,
+    "MachineID": 519
+  },
+  {
+    "SensorID": 1062,
+    "Timestamp": "2024-01-28 23:37:07",
+    "ReadingType": "Temperature",
+    "Value": 107.97,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1059,
+    "Timestamp": "2024-04-11 18:42:52",
+    "ReadingType": "Temperature",
+    "Value": 472.79,
+    "MachineID": 550
+  },
+  {
+    "SensorID": 1094,
+    "Timestamp": "2024-03-01 23:53:36",
+    "ReadingType": "Temperature",
+    "Value": 182.23,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1016,
+    "Timestamp": "2024-01-11 23:07:57",
+    "ReadingType": "Pressure",
+    "Value": 140.95,
+    "MachineID": 549
+  },
+  {
+    "SensorID": 1004,
+    "Timestamp": "2024-02-18 09:57:56",
+    "ReadingType": "Pressure",
+    "Value": 61.13,
+    "MachineID": 528
+  },
+  {
+    "SensorID": 1059,
+    "Timestamp": "2024-03-10 13:28:53",
+    "ReadingType": "Vibration",
+    "Value": 388.9,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1038,
+    "Timestamp": "2024-03-10 23:23:03",
+    "ReadingType": "Pressure",
+    "Value": 252.01,
+    "MachineID": 546
+  },
+  {
+    "SensorID": 1031,
+    "Timestamp": "2024-04-21 11:10:50",
+    "ReadingType": "Temperature",
+    "Value": 244.17,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1028,
+    "Timestamp": "2024-02-12 21:07:32",
+    "ReadingType": "Pressure",
+    "Value": 173.46,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1031,
+    "Timestamp": "2024-04-23 14:50:52",
+    "ReadingType": "Temperature",
+    "Value": 492.72,
+    "MachineID": 540
+  },
+  {
+    "SensorID": 1011,
+    "Timestamp": "2024-03-07 15:30:58",
+    "ReadingType": "Temperature",
+    "Value": 321.16,
+    "MachineID": 507
+  },
+  {
+    "SensorID": 1028,
+    "Timestamp": "2024-04-29 00:10:34",
+    "ReadingType": "Temperature",
+    "Value": 92.05,
+    "MachineID": 504
+  },
+  {
+    "SensorID": 1067,
+    "Timestamp": "2024-01-09 02:57:25",
+    "ReadingType": "Temperature",
+    "Value": 95.29,
+    "MachineID": 518
+  },
+  {
+    "SensorID": 1008,
+    "Timestamp": "2024-03-30 07:55:25",
+    "ReadingType": "Temperature",
+    "Value": 169.42,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1025,
+    "Timestamp": "2024-03-25 00:57:02",
+    "ReadingType": "Pressure",
+    "Value": 187.3,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1069,
+    "Timestamp": "2024-02-27 01:33:37",
+    "ReadingType": "Vibration",
+    "Value": 86.13,
+    "MachineID": 515
+  },
+  {
+    "SensorID": 1040,
+    "Timestamp": "2024-02-24 15:19:50",
+    "ReadingType": "Vibration",
+    "Value": 314.58,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1082,
+    "Timestamp": "2024-02-25 00:26:35",
+    "ReadingType": "Temperature",
+    "Value": 236.49,
+    "MachineID": 519
+  },
+  {
+    "SensorID": 1009,
+    "Timestamp": "2024-01-21 02:37:04",
+    "ReadingType": "Temperature",
+    "Value": 168.74,
+    "MachineID": 541
+  },
+  {
+    "SensorID": 1073,
+    "Timestamp": "2024-04-19 02:30:56",
+    "ReadingType": "Pressure",
+    "Value": 434.97,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1094,
+    "Timestamp": "2024-01-08 09:32:25",
+    "ReadingType": "Temperature",
+    "Value": 301.6,
+    "MachineID": 503
+  },
+  {
+    "SensorID": 1010,
+    "Timestamp": "2024-03-14 18:47:11",
+    "ReadingType": "Temperature",
+    "Value": 234.43,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1078,
+    "Timestamp": "2024-02-19 23:58:48",
+    "ReadingType": "Temperature",
+    "Value": 181.63,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1040,
+    "Timestamp": "2024-01-05 07:40:16",
+    "ReadingType": "Pressure",
+    "Value": 483.4,
+    "MachineID": 544
+  },
+  {
+    "SensorID": 1052,
+    "Timestamp": "2024-02-06 07:50:03",
+    "ReadingType": "Pressure",
+    "Value": 213.18,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1034,
+    "Timestamp": "2024-03-24 16:21:50",
+    "ReadingType": "Pressure",
+    "Value": 145.69,
+    "MachineID": 512
+  },
+  {
+    "SensorID": 1002,
+    "Timestamp": "2024-02-24 08:18:00",
+    "ReadingType": "Vibration",
+    "Value": 492.96,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1054,
+    "Timestamp": "2024-04-07 01:38:10",
+    "ReadingType": "Temperature",
+    "Value": 258.92,
+    "MachineID": 508
+  },
+  {
+    "SensorID": 1003,
+    "Timestamp": "2024-02-22 12:46:08",
+    "ReadingType": "Pressure",
+    "Value": 159.76,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1090,
+    "Timestamp": "2024-02-12 23:58:41",
+    "ReadingType": "Pressure",
+    "Value": 360.53,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1044,
+    "Timestamp": "2024-01-24 08:03:59",
+    "ReadingType": "Pressure",
+    "Value": 390.82,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1055,
+    "Timestamp": "2024-03-22 14:22:59",
+    "ReadingType": "Vibration",
+    "Value": 72.64,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1029,
+    "Timestamp": "2024-01-09 18:16:10",
+    "ReadingType": "Vibration",
+    "Value": 72.33,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1085,
+    "Timestamp": "2024-02-15 01:52:37",
+    "ReadingType": "Vibration",
+    "Value": 43.49,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1064,
+    "Timestamp": "2024-04-11 10:24:45",
+    "ReadingType": "Pressure",
+    "Value": 377.12,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1008,
+    "Timestamp": "2024-04-16 08:20:35",
+    "ReadingType": "Pressure",
+    "Value": 432.85,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1070,
+    "Timestamp": "2024-04-14 09:27:01",
+    "ReadingType": "Pressure",
+    "Value": 464.7,
+    "MachineID": 517
+  },
+  {
+    "SensorID": 1064,
+    "Timestamp": "2024-03-02 08:12:05",
+    "ReadingType": "Temperature",
+    "Value": 433.91,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1068,
+    "Timestamp": "2024-03-18 14:45:54",
+    "ReadingType": "Vibration",
+    "Value": 99.11,
+    "MachineID": 504
+  },
+  {
+    "SensorID": 1007,
+    "Timestamp": "2024-02-01 15:37:48",
+    "ReadingType": "Vibration",
+    "Value": 219.09,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1080,
+    "Timestamp": "2024-03-10 05:21:08",
+    "ReadingType": "Vibration",
+    "Value": 90.05,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1007,
+    "Timestamp": "2024-04-13 01:52:12",
+    "ReadingType": "Temperature",
+    "Value": 192.79,
+    "MachineID": 503
+  },
+  {
+    "SensorID": 1060,
+    "Timestamp": "2024-02-23 20:30:50",
+    "ReadingType": "Pressure",
+    "Value": 45.05,
+    "MachineID": 526
+  },
+  {
+    "SensorID": 1021,
+    "Timestamp": "2024-03-17 09:21:50",
+    "ReadingType": "Vibration",
+    "Value": 67.13,
+    "MachineID": 544
+  },
+  {
+    "SensorID": 1029,
+    "Timestamp": "2024-01-15 08:06:21",
+    "ReadingType": "Pressure",
+    "Value": 316.13,
+    "MachineID": 526
+  },
+  {
+    "SensorID": 1001,
+    "Timestamp": "2024-03-03 22:53:12",
+    "ReadingType": "Pressure",
+    "Value": 82.62,
+    "MachineID": 526
+  },
+  {
+    "SensorID": 1087,
+    "Timestamp": "2024-04-13 09:26:56",
+    "ReadingType": "Temperature",
+    "Value": 423.01,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1002,
+    "Timestamp": "2024-01-02 22:23:00",
+    "ReadingType": "Vibration",
+    "Value": 52.13,
+    "MachineID": 517
+  },
+  {
+    "SensorID": 1049,
+    "Timestamp": "2024-02-25 00:47:19",
+    "ReadingType": "Vibration",
+    "Value": 313.05,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1019,
+    "Timestamp": "2024-03-10 07:15:01",
+    "ReadingType": "Vibration",
+    "Value": 84.42,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1076,
+    "Timestamp": "2024-02-02 07:49:14",
+    "ReadingType": "Pressure",
+    "Value": 36.31,
+    "MachineID": 535
+  },
+  {
+    "SensorID": 1050,
+    "Timestamp": "2024-01-21 01:35:05",
+    "ReadingType": "Pressure",
+    "Value": 117.54,
+    "MachineID": 530
+  },
+  {
+    "SensorID": 1081,
+    "Timestamp": "2024-01-06 17:42:18",
+    "ReadingType": "Vibration",
+    "Value": 50.18,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1035,
+    "Timestamp": "2024-02-03 20:14:53",
+    "ReadingType": "Vibration",
+    "Value": 28.86,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1028,
+    "Timestamp": "2024-03-18 19:37:05",
+    "ReadingType": "Temperature",
+    "Value": 271.46,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1049,
+    "Timestamp": "2024-03-12 19:51:17",
+    "ReadingType": "Temperature",
+    "Value": 280.22,
+    "MachineID": 521
+  },
+  {
+    "SensorID": 1088,
+    "Timestamp": "2024-04-25 07:36:00",
+    "ReadingType": "Temperature",
+    "Value": 389.85,
+    "MachineID": 547
+  },
+  {
+    "SensorID": 1032,
+    "Timestamp": "2024-04-02 04:25:39",
+    "ReadingType": "Temperature",
+    "Value": 430.27,
+    "MachineID": 523
+  },
+  {
+    "SensorID": 1019,
+    "Timestamp": "2024-03-30 18:31:24",
+    "ReadingType": "Pressure",
+    "Value": 109.75,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-02-29 14:04:06",
+    "ReadingType": "Pressure",
+    "Value": 29.34,
+    "MachineID": 523
+  },
+  {
+    "SensorID": 1064,
+    "Timestamp": "2024-04-07 17:36:14",
+    "ReadingType": "Temperature",
+    "Value": 467.04,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1018,
+    "Timestamp": "2024-04-28 18:46:10",
+    "ReadingType": "Vibration",
+    "Value": 221.69,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1097,
+    "Timestamp": "2024-02-08 08:00:46",
+    "ReadingType": "Vibration",
+    "Value": 288.17,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1024,
+    "Timestamp": "2024-03-31 18:49:25",
+    "ReadingType": "Temperature",
+    "Value": 426.9,
+    "MachineID": 523
+  },
+  {
+    "SensorID": 1041,
+    "Timestamp": "2024-01-25 00:34:33",
+    "ReadingType": "Temperature",
+    "Value": 202.6,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1045,
+    "Timestamp": "2024-04-12 17:41:02",
+    "ReadingType": "Temperature",
+    "Value": 448.01,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1015,
+    "Timestamp": "2024-01-05 03:14:51",
+    "ReadingType": "Vibration",
+    "Value": 166.7,
+    "MachineID": 531
+  },
+  {
+    "SensorID": 1015,
+    "Timestamp": "2024-04-24 12:04:39",
+    "ReadingType": "Temperature",
+    "Value": 348.85,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1024,
+    "Timestamp": "2024-01-25 13:11:12",
+    "ReadingType": "Pressure",
+    "Value": 382.97,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1097,
+    "Timestamp": "2024-01-14 22:36:06",
+    "ReadingType": "Temperature",
+    "Value": 178.9,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1003,
+    "Timestamp": "2024-03-07 14:04:05",
+    "ReadingType": "Temperature",
+    "Value": 401.68,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1081,
+    "Timestamp": "2024-02-16 19:03:07",
+    "ReadingType": "Temperature",
+    "Value": 110.52,
+    "MachineID": 518
+  },
+  {
+    "SensorID": 1061,
+    "Timestamp": "2024-01-28 23:20:05",
+    "ReadingType": "Pressure",
+    "Value": 450.53,
+    "MachineID": 515
+  },
+  {
+    "SensorID": 1031,
+    "Timestamp": "2024-02-18 18:14:55",
+    "ReadingType": "Pressure",
+    "Value": 131.51,
+    "MachineID": 542
+  },
+  {
+    "SensorID": 1062,
+    "Timestamp": "2024-01-07 14:25:46",
+    "ReadingType": "Vibration",
+    "Value": 466.11,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1043,
+    "Timestamp": "2024-02-25 13:10:59",
+    "ReadingType": "Pressure",
+    "Value": 379.38,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1035,
+    "Timestamp": "2024-01-10 13:03:40",
+    "ReadingType": "Pressure",
+    "Value": 87.01,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1031,
+    "Timestamp": "2024-04-13 12:58:59",
+    "ReadingType": "Pressure",
+    "Value": 429.31,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1021,
+    "Timestamp": "2024-03-28 21:24:43",
+    "ReadingType": "Vibration",
+    "Value": 27.49,
+    "MachineID": 520
+  },
+  {
+    "SensorID": 1010,
+    "Timestamp": "2024-04-25 04:43:33",
+    "ReadingType": "Temperature",
+    "Value": 254.65,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1044,
+    "Timestamp": "2024-01-18 03:01:55",
+    "ReadingType": "Pressure",
+    "Value": 456.83,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1089,
+    "Timestamp": "2024-04-20 06:34:57",
+    "ReadingType": "Vibration",
+    "Value": 44.54,
+    "MachineID": 531
+  },
+  {
+    "SensorID": 1030,
+    "Timestamp": "2024-01-23 17:34:11",
+    "ReadingType": "Temperature",
+    "Value": 365.79,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1010,
+    "Timestamp": "2024-03-08 06:54:19",
+    "ReadingType": "Vibration",
+    "Value": 127.93,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1094,
+    "Timestamp": "2024-02-28 09:37:29",
+    "ReadingType": "Temperature",
+    "Value": 104.76,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1086,
+    "Timestamp": "2024-03-08 12:47:17",
+    "ReadingType": "Vibration",
+    "Value": 434.38,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1096,
+    "Timestamp": "2024-02-06 18:46:54",
+    "ReadingType": "Pressure",
+    "Value": 384.55,
+    "MachineID": 512
+  },
+  {
+    "SensorID": 1042,
+    "Timestamp": "2024-01-04 18:15:05",
+    "ReadingType": "Vibration",
+    "Value": 397.64,
+    "MachineID": 547
+  },
+  {
+    "SensorID": 1069,
+    "Timestamp": "2024-01-05 09:19:38",
+    "ReadingType": "Temperature",
+    "Value": 400.17,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1072,
+    "Timestamp": "2024-01-16 13:11:49",
+    "ReadingType": "Temperature",
+    "Value": 412.01,
+    "MachineID": 550
+  },
+  {
+    "SensorID": 1045,
+    "Timestamp": "2024-03-09 18:53:24",
+    "ReadingType": "Vibration",
+    "Value": 198.71,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1028,
+    "Timestamp": "2024-03-15 02:05:12",
+    "ReadingType": "Temperature",
+    "Value": 370.39,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1065,
+    "Timestamp": "2024-02-28 20:40:49",
+    "ReadingType": "Temperature",
+    "Value": 213.96,
+    "MachineID": 507
+  },
+  {
+    "SensorID": 1023,
+    "Timestamp": "2024-03-13 17:31:22",
+    "ReadingType": "Vibration",
+    "Value": 491.8,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1011,
+    "Timestamp": "2024-01-05 13:56:41",
+    "ReadingType": "Pressure",
+    "Value": 495.29,
+    "MachineID": 546
+  },
+  {
+    "SensorID": 1028,
+    "Timestamp": "2024-04-04 11:00:21",
+    "ReadingType": "Pressure",
+    "Value": 79.03,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1098,
+    "Timestamp": "2024-04-11 09:49:14",
+    "ReadingType": "Vibration",
+    "Value": 255.12,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1053,
+    "Timestamp": "2024-03-01 12:40:20",
+    "ReadingType": "Vibration",
+    "Value": 353.52,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1061,
+    "Timestamp": "2024-03-25 09:54:00",
+    "ReadingType": "Pressure",
+    "Value": 295.25,
+    "MachineID": 512
+  },
+  {
+    "SensorID": 1062,
+    "Timestamp": "2024-02-24 15:27:46",
+    "ReadingType": "Vibration",
+    "Value": 146.06,
+    "MachineID": 507
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-01-14 09:43:19",
+    "ReadingType": "Temperature",
+    "Value": 70.67,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1058,
+    "Timestamp": "2024-04-12 12:40:45",
+    "ReadingType": "Vibration",
+    "Value": 321.28,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1086,
+    "Timestamp": "2024-03-11 10:38:27",
+    "ReadingType": "Vibration",
+    "Value": 428.01,
+    "MachineID": 542
+  },
+  {
+    "SensorID": 1094,
+    "Timestamp": "2024-04-08 11:21:56",
+    "ReadingType": "Temperature",
+    "Value": 282.16,
+    "MachineID": 545
+  },
+  {
+    "SensorID": 1073,
+    "Timestamp": "2024-04-28 05:05:27",
+    "ReadingType": "Temperature",
+    "Value": 95.31,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1071,
+    "Timestamp": "2024-01-05 20:19:28",
+    "ReadingType": "Pressure",
+    "Value": 131.65,
+    "MachineID": 508
+  },
+  {
+    "SensorID": 1048,
+    "Timestamp": "2024-04-20 18:51:19",
+    "ReadingType": "Temperature",
+    "Value": 46.35,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1053,
+    "Timestamp": "2024-02-11 23:24:03",
+    "ReadingType": "Pressure",
+    "Value": 266.26,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1006,
+    "Timestamp": "2024-02-23 08:01:35",
+    "ReadingType": "Pressure",
+    "Value": 195.96,
+    "MachineID": 540
+  },
+  {
+    "SensorID": 1096,
+    "Timestamp": "2024-02-29 08:31:45",
+    "ReadingType": "Vibration",
+    "Value": 137.41,
+    "MachineID": 512
+  },
+  {
+    "SensorID": 1028,
+    "Timestamp": "2024-04-03 05:41:06",
+    "ReadingType": "Temperature",
+    "Value": 259.68,
+    "MachineID": 523
+  },
+  {
+    "SensorID": 1085,
+    "Timestamp": "2024-03-29 15:17:40",
+    "ReadingType": "Vibration",
+    "Value": 25.88,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1016,
+    "Timestamp": "2024-02-16 01:41:46",
+    "ReadingType": "Pressure",
+    "Value": 241.85,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-01-15 05:55:39",
+    "ReadingType": "Temperature",
+    "Value": 176.92,
+    "MachineID": 507
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-02-13 00:16:23",
+    "ReadingType": "Temperature",
+    "Value": 222.46,
+    "MachineID": 539
+  },
+  {
+    "SensorID": 1061,
+    "Timestamp": "2024-03-16 14:04:30",
+    "ReadingType": "Pressure",
+    "Value": 371.43,
+    "MachineID": 526
+  },
+  {
+    "SensorID": 1003,
+    "Timestamp": "2024-02-15 13:32:11",
+    "ReadingType": "Pressure",
+    "Value": 491.18,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1008,
+    "Timestamp": "2024-02-26 11:48:10",
+    "ReadingType": "Vibration",
+    "Value": 396.24,
+    "MachineID": 518
+  },
+  {
+    "SensorID": 1055,
+    "Timestamp": "2024-01-15 01:15:02",
+    "ReadingType": "Temperature",
+    "Value": 24.55,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1050,
+    "Timestamp": "2024-04-20 21:34:08",
+    "ReadingType": "Vibration",
+    "Value": 490.33,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1090,
+    "Timestamp": "2024-03-22 18:10:25",
+    "ReadingType": "Vibration",
+    "Value": 257.49,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1086,
+    "Timestamp": "2024-04-13 17:26:34",
+    "ReadingType": "Temperature",
+    "Value": 488.66,
+    "MachineID": 521
+  },
+  {
+    "SensorID": 1033,
+    "Timestamp": "2024-03-14 00:58:06",
+    "ReadingType": "Vibration",
+    "Value": 494.73,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1076,
+    "Timestamp": "2024-03-25 19:13:01",
+    "ReadingType": "Temperature",
+    "Value": 272.01,
+    "MachineID": 507
+  },
+  {
+    "SensorID": 1045,
+    "Timestamp": "2024-04-29 01:46:31",
+    "ReadingType": "Vibration",
+    "Value": 26.02,
+    "MachineID": 530
+  },
+  {
+    "SensorID": 1085,
+    "Timestamp": "2024-04-19 15:39:24",
+    "ReadingType": "Pressure",
+    "Value": 484.32,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1019,
+    "Timestamp": "2024-02-05 04:30:47",
+    "ReadingType": "Vibration",
+    "Value": 85.35,
+    "MachineID": 532
+  },
+  {
+    "SensorID": 1010,
+    "Timestamp": "2024-01-15 10:58:36",
+    "ReadingType": "Pressure",
+    "Value": 79.56,
+    "MachineID": 539
+  },
+  {
+    "SensorID": 1088,
+    "Timestamp": "2024-02-15 21:42:05",
+    "ReadingType": "Temperature",
+    "Value": 332.13,
+    "MachineID": 539
+  },
+  {
+    "SensorID": 1061,
+    "Timestamp": "2024-02-28 18:58:05",
+    "ReadingType": "Temperature",
+    "Value": 225.71,
+    "MachineID": 547
+  },
+  {
+    "SensorID": 1089,
+    "Timestamp": "2024-01-09 18:25:29",
+    "ReadingType": "Temperature",
+    "Value": 442.6,
+    "MachineID": 518
+  },
+  {
+    "SensorID": 1087,
+    "Timestamp": "2024-03-21 09:59:17",
+    "ReadingType": "Temperature",
+    "Value": 192.41,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1063,
+    "Timestamp": "2024-03-01 08:38:53",
+    "ReadingType": "Vibration",
+    "Value": 134.07,
+    "MachineID": 535
+  },
+  {
+    "SensorID": 1082,
+    "Timestamp": "2024-04-18 15:29:38",
+    "ReadingType": "Pressure",
+    "Value": 460.52,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1017,
+    "Timestamp": "2024-04-10 03:04:39",
+    "ReadingType": "Temperature",
+    "Value": 56.29,
+    "MachineID": 532
+  },
+  {
+    "SensorID": 1022,
+    "Timestamp": "2024-04-01 20:03:05",
+    "ReadingType": "Pressure",
+    "Value": 101.39,
+    "MachineID": 542
+  },
+  {
+    "SensorID": 1040,
+    "Timestamp": "2024-04-13 15:33:00",
+    "ReadingType": "Temperature",
+    "Value": 467.65,
+    "MachineID": 542
+  },
+  {
+    "SensorID": 1089,
+    "Timestamp": "2024-02-23 19:34:35",
+    "ReadingType": "Pressure",
+    "Value": 221.13,
+    "MachineID": 531
+  },
+  {
+    "SensorID": 1039,
+    "Timestamp": "2024-03-19 21:28:28",
+    "ReadingType": "Vibration",
+    "Value": 161.89,
+    "MachineID": 549
+  },
+  {
+    "SensorID": 1076,
+    "Timestamp": "2024-01-15 14:34:39",
+    "ReadingType": "Temperature",
+    "Value": 376.91,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1072,
+    "Timestamp": "2024-03-09 20:57:59",
+    "ReadingType": "Pressure",
+    "Value": 411.32,
+    "MachineID": 517
+  },
+  {
+    "SensorID": 1052,
+    "Timestamp": "2024-01-28 14:30:30",
+    "ReadingType": "Vibration",
+    "Value": 29.48,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1023,
+    "Timestamp": "2024-04-12 09:51:10",
+    "ReadingType": "Pressure",
+    "Value": 167.09,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1000,
+    "Timestamp": "2024-01-25 02:34:49",
+    "ReadingType": "Vibration",
+    "Value": 343.09,
+    "MachineID": 545
+  },
+  {
+    "SensorID": 1094,
+    "Timestamp": "2024-02-18 17:19:44",
+    "ReadingType": "Vibration",
+    "Value": 394.96,
+    "MachineID": 531
+  },
+  {
+    "SensorID": 1090,
+    "Timestamp": "2024-02-21 21:00:22",
+    "ReadingType": "Vibration",
+    "Value": 265.96,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1032,
+    "Timestamp": "2024-03-21 03:50:09",
+    "ReadingType": "Vibration",
+    "Value": 360.51,
+    "MachineID": 519
+  },
+  {
+    "SensorID": 1012,
+    "Timestamp": "2024-01-20 11:03:27",
+    "ReadingType": "Temperature",
+    "Value": 485.7,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1032,
+    "Timestamp": "2024-03-09 14:41:05",
+    "ReadingType": "Pressure",
+    "Value": 300.9,
+    "MachineID": 519
+  },
+  {
+    "SensorID": 1053,
+    "Timestamp": "2024-04-21 11:08:36",
+    "ReadingType": "Vibration",
+    "Value": 452.02,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1034,
+    "Timestamp": "2024-04-29 08:52:57",
+    "ReadingType": "Pressure",
+    "Value": 347.68,
+    "MachineID": 521
+  },
+  {
+    "SensorID": 1014,
+    "Timestamp": "2024-03-19 14:48:33",
+    "ReadingType": "Temperature",
+    "Value": 74.95,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1087,
+    "Timestamp": "2024-03-19 21:21:07",
+    "ReadingType": "Pressure",
+    "Value": 338.19,
+    "MachineID": 528
+  },
+  {
+    "SensorID": 1067,
+    "Timestamp": "2024-01-01 20:57:11",
+    "ReadingType": "Pressure",
+    "Value": 259.97,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1068,
+    "Timestamp": "2024-03-17 22:07:32",
+    "ReadingType": "Vibration",
+    "Value": 11.4,
+    "MachineID": 505
+  },
+  {
+    "SensorID": 1061,
+    "Timestamp": "2024-01-24 22:08:07",
+    "ReadingType": "Temperature",
+    "Value": 228.88,
+    "MachineID": 544
+  },
+  {
+    "SensorID": 1069,
+    "Timestamp": "2024-03-17 08:54:02",
+    "ReadingType": "Vibration",
+    "Value": 177.43,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1072,
+    "Timestamp": "2024-04-28 23:23:57",
+    "ReadingType": "Pressure",
+    "Value": 246.46,
+    "MachineID": 550
+  },
+  {
+    "SensorID": 1049,
+    "Timestamp": "2024-03-08 16:17:34",
+    "ReadingType": "Pressure",
+    "Value": 416.61,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1059,
+    "Timestamp": "2024-03-06 10:10:36",
+    "ReadingType": "Pressure",
+    "Value": 189.27,
+    "MachineID": 544
+  },
+  {
+    "SensorID": 1007,
+    "Timestamp": "2024-02-10 06:53:28",
+    "ReadingType": "Temperature",
+    "Value": 465.57,
+    "MachineID": 546
+  },
+  {
+    "SensorID": 1047,
+    "Timestamp": "2024-04-19 18:58:32",
+    "ReadingType": "Vibration",
+    "Value": 417.06,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1000,
+    "Timestamp": "2024-01-03 06:51:52",
+    "ReadingType": "Temperature",
+    "Value": 270.93,
+    "MachineID": 550
+  },
+  {
+    "SensorID": 1016,
+    "Timestamp": "2024-03-26 19:25:14",
+    "ReadingType": "Vibration",
+    "Value": 25.48,
+    "MachineID": 542
+  },
+  {
+    "SensorID": 1068,
+    "Timestamp": "2024-03-01 20:36:19",
+    "ReadingType": "Pressure",
+    "Value": 148.51,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1054,
+    "Timestamp": "2024-04-17 05:20:02",
+    "ReadingType": "Temperature",
+    "Value": 73.94,
+    "MachineID": 526
+  },
+  {
+    "SensorID": 1013,
+    "Timestamp": "2024-03-01 17:33:50",
+    "ReadingType": "Temperature",
+    "Value": 400.89,
+    "MachineID": 530
+  },
+  {
+    "SensorID": 1097,
+    "Timestamp": "2024-01-18 19:59:41",
+    "ReadingType": "Vibration",
+    "Value": 239.75,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1090,
+    "Timestamp": "2024-01-28 07:55:08",
+    "ReadingType": "Pressure",
+    "Value": 238.52,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1042,
+    "Timestamp": "2024-02-09 10:15:01",
+    "ReadingType": "Vibration",
+    "Value": 306.04,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1078,
+    "Timestamp": "2024-01-08 01:33:52",
+    "ReadingType": "Pressure",
+    "Value": 478.69,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1010,
+    "Timestamp": "2024-04-03 19:03:34",
+    "ReadingType": "Pressure",
+    "Value": 155.17,
+    "MachineID": 503
+  },
+  {
+    "SensorID": 1009,
+    "Timestamp": "2024-03-26 07:40:56",
+    "ReadingType": "Vibration",
+    "Value": 393.03,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1093,
+    "Timestamp": "2024-01-04 09:26:57",
+    "ReadingType": "Pressure",
+    "Value": 368.53,
+    "MachineID": 550
+  },
+  {
+    "SensorID": 1088,
+    "Timestamp": "2024-01-27 03:44:48",
+    "ReadingType": "Pressure",
+    "Value": 249.7,
+    "MachineID": 523
+  },
+  {
+    "SensorID": 1088,
+    "Timestamp": "2024-01-08 05:13:07",
+    "ReadingType": "Pressure",
+    "Value": 61.13,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1097,
+    "Timestamp": "2024-02-04 04:38:57",
+    "ReadingType": "Temperature",
+    "Value": 417.84,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1060,
+    "Timestamp": "2024-02-09 23:07:30",
+    "ReadingType": "Pressure",
+    "Value": 292.23,
+    "MachineID": 526
+  },
+  {
+    "SensorID": 1078,
+    "Timestamp": "2024-01-14 16:29:06",
+    "ReadingType": "Temperature",
+    "Value": 89.08,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1089,
+    "Timestamp": "2024-03-03 12:29:30",
+    "ReadingType": "Vibration",
+    "Value": 63.66,
+    "MachineID": 504
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-04-29 15:04:17",
+    "ReadingType": "Vibration",
+    "Value": 445.79,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1052,
+    "Timestamp": "2024-02-16 10:37:19",
+    "ReadingType": "Pressure",
+    "Value": 164.74,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1002,
+    "Timestamp": "2024-01-24 14:48:18",
+    "ReadingType": "Vibration",
+    "Value": 446.74,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1074,
+    "Timestamp": "2024-01-18 04:09:09",
+    "ReadingType": "Vibration",
+    "Value": 480.09,
+    "MachineID": 547
+  },
+  {
+    "SensorID": 1026,
+    "Timestamp": "2024-04-17 02:51:07",
+    "ReadingType": "Temperature",
+    "Value": 103.46,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1001,
+    "Timestamp": "2024-01-04 02:46:42",
+    "ReadingType": "Pressure",
+    "Value": 259.31,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1045,
+    "Timestamp": "2024-03-30 01:33:57",
+    "ReadingType": "Vibration",
+    "Value": 273.98,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1057,
+    "Timestamp": "2024-04-29 02:22:59",
+    "ReadingType": "Pressure",
+    "Value": 280.94,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1054,
+    "Timestamp": "2024-04-21 04:37:49",
+    "ReadingType": "Temperature",
+    "Value": 378.88,
+    "MachineID": 540
+  },
+  {
+    "SensorID": 1016,
+    "Timestamp": "2024-02-20 20:13:43",
+    "ReadingType": "Temperature",
+    "Value": 465.12,
+    "MachineID": 532
+  },
+  {
+    "SensorID": 1067,
+    "Timestamp": "2024-03-09 13:19:24",
+    "ReadingType": "Vibration",
+    "Value": 442.15,
+    "MachineID": 526
+  },
+  {
+    "SensorID": 1001,
+    "Timestamp": "2024-03-23 19:48:03",
+    "ReadingType": "Pressure",
+    "Value": 459.4,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1011,
+    "Timestamp": "2024-03-10 21:30:09",
+    "ReadingType": "Vibration",
+    "Value": 39.34,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1035,
+    "Timestamp": "2024-04-28 19:56:22",
+    "ReadingType": "Pressure",
+    "Value": 130.47,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1069,
+    "Timestamp": "2024-04-28 14:23:30",
+    "ReadingType": "Temperature",
+    "Value": 431.86,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1062,
+    "Timestamp": "2024-01-25 22:29:47",
+    "ReadingType": "Temperature",
+    "Value": 258.23,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1085,
+    "Timestamp": "2024-01-05 10:38:57",
+    "ReadingType": "Temperature",
+    "Value": 274.55,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1053,
+    "Timestamp": "2024-03-14 10:14:51",
+    "ReadingType": "Pressure",
+    "Value": 66.36,
+    "MachineID": 504
+  },
+  {
+    "SensorID": 1014,
+    "Timestamp": "2024-03-04 06:29:00",
+    "ReadingType": "Vibration",
+    "Value": 320.69,
+    "MachineID": 532
+  },
+  {
+    "SensorID": 1041,
+    "Timestamp": "2024-03-20 01:27:10",
+    "ReadingType": "Temperature",
+    "Value": 401.05,
+    "MachineID": 508
+  },
+  {
+    "SensorID": 1070,
+    "Timestamp": "2024-04-04 07:23:19",
+    "ReadingType": "Vibration",
+    "Value": 251.53,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1001,
+    "Timestamp": "2024-02-14 05:16:26",
+    "ReadingType": "Temperature",
+    "Value": 45.16,
+    "MachineID": 545
+  },
+  {
+    "SensorID": 1075,
+    "Timestamp": "2024-03-15 06:19:43",
+    "ReadingType": "Pressure",
+    "Value": 57.06,
+    "MachineID": 503
+  },
+  {
+    "SensorID": 1012,
+    "Timestamp": "2024-01-12 19:39:29",
+    "ReadingType": "Vibration",
+    "Value": 226.01,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1095,
+    "Timestamp": "2024-01-28 16:43:28",
+    "ReadingType": "Temperature",
+    "Value": 246.37,
+    "MachineID": 515
+  },
+  {
+    "SensorID": 1009,
+    "Timestamp": "2024-01-14 00:37:12",
+    "ReadingType": "Pressure",
+    "Value": 394.4,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1023,
+    "Timestamp": "2024-02-06 10:52:46",
+    "ReadingType": "Vibration",
+    "Value": 227.63,
+    "MachineID": 549
+  },
+  {
+    "SensorID": 1027,
+    "Timestamp": "2024-03-03 12:17:19",
+    "ReadingType": "Vibration",
+    "Value": 497.36,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1081,
+    "Timestamp": "2024-03-08 19:33:24",
+    "ReadingType": "Temperature",
+    "Value": 413.58,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1025,
+    "Timestamp": "2024-03-06 20:50:04",
+    "ReadingType": "Pressure",
+    "Value": 493.45,
+    "MachineID": 541
+  },
+  {
+    "SensorID": 1034,
+    "Timestamp": "2024-04-28 22:35:56",
+    "ReadingType": "Vibration",
+    "Value": 470.13,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1069,
+    "Timestamp": "2024-01-26 21:12:32",
+    "ReadingType": "Vibration",
+    "Value": 13.31,
+    "MachineID": 535
+  },
+  {
+    "SensorID": 1041,
+    "Timestamp": "2024-01-26 20:02:48",
+    "ReadingType": "Vibration",
+    "Value": 223.91,
+    "MachineID": 540
+  },
+  {
+    "SensorID": 1090,
+    "Timestamp": "2024-01-09 07:27:34",
+    "ReadingType": "Temperature",
+    "Value": 230.0,
+    "MachineID": 508
+  },
+  {
+    "SensorID": 1038,
+    "Timestamp": "2024-03-01 15:02:33",
+    "ReadingType": "Pressure",
+    "Value": 361.98,
+    "MachineID": 528
+  },
+  {
+    "SensorID": 1043,
+    "Timestamp": "2024-01-26 06:35:41",
+    "ReadingType": "Temperature",
+    "Value": 147.83,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1035,
+    "Timestamp": "2024-04-06 09:48:12",
+    "ReadingType": "Pressure",
+    "Value": 346.24,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1081,
+    "Timestamp": "2024-02-21 20:02:18",
+    "ReadingType": "Temperature",
+    "Value": 264.77,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1082,
+    "Timestamp": "2024-02-23 23:25:04",
+    "ReadingType": "Vibration",
+    "Value": 182.52,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1045,
+    "Timestamp": "2024-04-13 04:13:59",
+    "ReadingType": "Pressure",
+    "Value": 237.09,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1072,
+    "Timestamp": "2024-01-27 14:49:12",
+    "ReadingType": "Pressure",
+    "Value": 205.16,
+    "MachineID": 508
+  },
+  {
+    "SensorID": 1018,
+    "Timestamp": "2024-02-11 17:24:38",
+    "ReadingType": "Pressure",
+    "Value": 416.78,
+    "MachineID": 519
+  },
+  {
+    "SensorID": 1053,
+    "Timestamp": "2024-01-19 06:07:14",
+    "ReadingType": "Vibration",
+    "Value": 273.34,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1058,
+    "Timestamp": "2024-04-13 01:36:51",
+    "ReadingType": "Temperature",
+    "Value": 361.54,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1039,
+    "Timestamp": "2024-01-24 06:16:51",
+    "ReadingType": "Pressure",
+    "Value": 256.81,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1028,
+    "Timestamp": "2024-03-25 22:16:55",
+    "ReadingType": "Temperature",
+    "Value": 172.6,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1044,
+    "Timestamp": "2024-03-04 18:34:18",
+    "ReadingType": "Pressure",
+    "Value": 445.6,
+    "MachineID": 504
+  },
+  {
+    "SensorID": 1004,
+    "Timestamp": "2024-01-26 13:02:49",
+    "ReadingType": "Pressure",
+    "Value": 84.68,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1002,
+    "Timestamp": "2024-01-11 02:10:58",
+    "ReadingType": "Pressure",
+    "Value": 423.27,
+    "MachineID": 545
+  },
+  {
+    "SensorID": 1029,
+    "Timestamp": "2024-02-23 06:34:11",
+    "ReadingType": "Vibration",
+    "Value": 422.37,
+    "MachineID": 530
+  },
+  {
+    "SensorID": 1011,
+    "Timestamp": "2024-02-01 21:59:31",
+    "ReadingType": "Temperature",
+    "Value": 145.8,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1046,
+    "Timestamp": "2024-01-19 16:33:43",
+    "ReadingType": "Vibration",
+    "Value": 250.76,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1007,
+    "Timestamp": "2024-04-22 10:42:06",
+    "ReadingType": "Pressure",
+    "Value": 97.43,
+    "MachineID": 549
+  },
+  {
+    "SensorID": 1062,
+    "Timestamp": "2024-02-29 15:50:54",
+    "ReadingType": "Temperature",
+    "Value": 247.56,
+    "MachineID": 550
+  },
+  {
+    "SensorID": 1088,
+    "Timestamp": "2024-02-17 23:56:43",
+    "ReadingType": "Temperature",
+    "Value": 499.27,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1025,
+    "Timestamp": "2024-03-05 07:55:30",
+    "ReadingType": "Temperature",
+    "Value": 180.93,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1069,
+    "Timestamp": "2024-01-31 10:07:29",
+    "ReadingType": "Temperature",
+    "Value": 268.94,
+    "MachineID": 520
+  },
+  {
+    "SensorID": 1029,
+    "Timestamp": "2024-02-05 18:12:34",
+    "ReadingType": "Pressure",
+    "Value": 309.25,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1084,
+    "Timestamp": "2024-03-01 13:01:18",
+    "ReadingType": "Vibration",
+    "Value": 117.75,
+    "MachineID": 545
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-02-23 06:14:54",
+    "ReadingType": "Temperature",
+    "Value": 464.9,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1049,
+    "Timestamp": "2024-01-11 22:13:24",
+    "ReadingType": "Pressure",
+    "Value": 451.34,
+    "MachineID": 535
+  },
+  {
+    "SensorID": 1040,
+    "Timestamp": "2024-03-23 19:39:06",
+    "ReadingType": "Vibration",
+    "Value": 258.48,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1007,
+    "Timestamp": "2024-04-04 05:03:14",
+    "ReadingType": "Pressure",
+    "Value": 477.96,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1037,
+    "Timestamp": "2024-02-22 10:37:02",
+    "ReadingType": "Vibration",
+    "Value": 183.59,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1015,
+    "Timestamp": "2024-02-20 19:15:45",
+    "ReadingType": "Pressure",
+    "Value": 449.13,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1053,
+    "Timestamp": "2024-02-13 06:53:15",
+    "ReadingType": "Vibration",
+    "Value": 17.87,
+    "MachineID": 539
+  },
+  {
+    "SensorID": 1078,
+    "Timestamp": "2024-02-01 10:49:39",
+    "ReadingType": "Temperature",
+    "Value": 461.09,
+    "MachineID": 538
+  },
+  {
+    "SensorID": 1057,
+    "Timestamp": "2024-02-05 13:03:23",
+    "ReadingType": "Pressure",
+    "Value": 410.25,
+    "MachineID": 531
+  },
+  {
+    "SensorID": 1044,
+    "Timestamp": "2024-04-29 12:25:24",
+    "ReadingType": "Pressure",
+    "Value": 218.65,
+    "MachineID": 523
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-01-11 08:16:13",
+    "ReadingType": "Vibration",
+    "Value": 194.56,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1072,
+    "Timestamp": "2024-01-23 02:15:56",
+    "ReadingType": "Pressure",
+    "Value": 445.17,
+    "MachineID": 542
+  },
+  {
+    "SensorID": 1031,
+    "Timestamp": "2024-04-27 15:23:20",
+    "ReadingType": "Vibration",
+    "Value": 498.63,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1087,
+    "Timestamp": "2024-01-11 10:09:27",
+    "ReadingType": "Temperature",
+    "Value": 113.05,
+    "MachineID": 508
+  },
+  {
+    "SensorID": 1089,
+    "Timestamp": "2024-01-31 12:42:26",
+    "ReadingType": "Vibration",
+    "Value": 197.8,
+    "MachineID": 535
+  },
+  {
+    "SensorID": 1055,
+    "Timestamp": "2024-01-25 11:26:10",
+    "ReadingType": "Vibration",
+    "Value": 449.02,
+    "MachineID": 535
+  },
+  {
+    "SensorID": 1071,
+    "Timestamp": "2024-02-11 22:36:09",
+    "ReadingType": "Temperature",
+    "Value": 223.22,
+    "MachineID": 523
+  },
+  {
+    "SensorID": 1072,
+    "Timestamp": "2024-04-01 23:49:29",
+    "ReadingType": "Pressure",
+    "Value": 492.8,
+    "MachineID": 508
+  },
+  {
+    "SensorID": 1053,
+    "Timestamp": "2024-02-20 17:53:27",
+    "ReadingType": "Vibration",
+    "Value": 41.55,
+    "MachineID": 519
+  },
+  {
+    "SensorID": 1057,
+    "Timestamp": "2024-04-29 08:49:39",
+    "ReadingType": "Vibration",
+    "Value": 168.76,
+    "MachineID": 544
+  },
+  {
+    "SensorID": 1087,
+    "Timestamp": "2024-03-14 06:41:21",
+    "ReadingType": "Pressure",
+    "Value": 310.94,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1005,
+    "Timestamp": "2024-04-13 11:12:28",
+    "ReadingType": "Vibration",
+    "Value": 220.6,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1017,
+    "Timestamp": "2024-03-29 07:41:39",
+    "ReadingType": "Pressure",
+    "Value": 173.03,
+    "MachineID": 542
+  },
+  {
+    "SensorID": 1067,
+    "Timestamp": "2024-02-01 17:28:45",
+    "ReadingType": "Pressure",
+    "Value": 109.01,
+    "MachineID": 517
+  },
+  {
+    "SensorID": 1049,
+    "Timestamp": "2024-04-22 23:56:19",
+    "ReadingType": "Vibration",
+    "Value": 475.48,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1020,
+    "Timestamp": "2024-01-26 08:01:31",
+    "ReadingType": "Pressure",
+    "Value": 155.09,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1053,
+    "Timestamp": "2024-04-29 22:37:28",
+    "ReadingType": "Vibration",
+    "Value": 213.7,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1061,
+    "Timestamp": "2024-03-06 14:03:19",
+    "ReadingType": "Vibration",
+    "Value": 483.33,
+    "MachineID": 549
+  },
+  {
+    "SensorID": 1064,
+    "Timestamp": "2024-02-06 20:27:43",
+    "ReadingType": "Temperature",
+    "Value": 105.96,
+    "MachineID": 540
+  },
+  {
+    "SensorID": 1062,
+    "Timestamp": "2024-03-19 14:20:36",
+    "ReadingType": "Temperature",
+    "Value": 117.16,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1021,
+    "Timestamp": "2024-02-21 07:16:43",
+    "ReadingType": "Vibration",
+    "Value": 428.97,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1061,
+    "Timestamp": "2024-04-10 09:21:49",
+    "ReadingType": "Temperature",
+    "Value": 310.13,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1021,
+    "Timestamp": "2024-04-09 07:13:23",
+    "ReadingType": "Pressure",
+    "Value": 293.69,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1023,
+    "Timestamp": "2024-04-26 23:40:35",
+    "ReadingType": "Temperature",
+    "Value": 359.06,
+    "MachineID": 515
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-04-05 23:18:03",
+    "ReadingType": "Pressure",
+    "Value": 397.62,
+    "MachineID": 542
+  },
+  {
+    "SensorID": 1013,
+    "Timestamp": "2024-04-09 00:51:30",
+    "ReadingType": "Vibration",
+    "Value": 24.61,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1008,
+    "Timestamp": "2024-04-23 13:32:19",
+    "ReadingType": "Pressure",
+    "Value": 300.38,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1079,
+    "Timestamp": "2024-04-16 23:18:03",
+    "ReadingType": "Vibration",
+    "Value": 444.72,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1078,
+    "Timestamp": "2024-04-28 17:04:09",
+    "ReadingType": "Temperature",
+    "Value": 304.36,
+    "MachineID": 508
+  },
+  {
+    "SensorID": 1010,
+    "Timestamp": "2024-01-05 16:27:22",
+    "ReadingType": "Pressure",
+    "Value": 91.16,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1021,
+    "Timestamp": "2024-04-15 00:42:38",
+    "ReadingType": "Pressure",
+    "Value": 12.08,
+    "MachineID": 515
+  },
+  {
+    "SensorID": 1087,
+    "Timestamp": "2024-03-15 00:41:36",
+    "ReadingType": "Temperature",
+    "Value": 12.12,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1030,
+    "Timestamp": "2024-02-23 23:27:07",
+    "ReadingType": "Vibration",
+    "Value": 160.85,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1094,
+    "Timestamp": "2024-02-16 13:56:10",
+    "ReadingType": "Pressure",
+    "Value": 273.77,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1031,
+    "Timestamp": "2024-03-29 02:43:31",
+    "ReadingType": "Temperature",
+    "Value": 12.8,
+    "MachineID": 547
+  },
+  {
+    "SensorID": 1091,
+    "Timestamp": "2024-03-28 16:10:45",
+    "ReadingType": "Vibration",
+    "Value": 213.46,
+    "MachineID": 512
+  },
+  {
+    "SensorID": 1011,
+    "Timestamp": "2024-03-05 10:23:37",
+    "ReadingType": "Temperature",
+    "Value": 195.63,
+    "MachineID": 545
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-01-29 17:08:23",
+    "ReadingType": "Temperature",
+    "Value": 279.56,
+    "MachineID": 507
+  },
+  {
+    "SensorID": 1091,
+    "Timestamp": "2024-01-25 11:39:36",
+    "ReadingType": "Temperature",
+    "Value": 299.27,
+    "MachineID": 545
+  },
+  {
+    "SensorID": 1084,
+    "Timestamp": "2024-01-09 01:52:52",
+    "ReadingType": "Vibration",
+    "Value": 71.57,
+    "MachineID": 538
+  },
+  {
+    "SensorID": 1086,
+    "Timestamp": "2024-03-23 16:27:17",
+    "ReadingType": "Vibration",
+    "Value": 74.55,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1031,
+    "Timestamp": "2024-03-14 00:35:08",
+    "ReadingType": "Pressure",
+    "Value": 11.13,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1011,
+    "Timestamp": "2024-02-21 08:14:30",
+    "ReadingType": "Temperature",
+    "Value": 468.91,
+    "MachineID": 542
+  },
+  {
+    "SensorID": 1046,
+    "Timestamp": "2024-01-28 07:50:44",
+    "ReadingType": "Vibration",
+    "Value": 457.64,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1032,
+    "Timestamp": "2024-03-25 21:16:53",
+    "ReadingType": "Temperature",
+    "Value": 497.37,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1044,
+    "Timestamp": "2024-01-04 12:44:35",
+    "ReadingType": "Temperature",
+    "Value": 353.69,
+    "MachineID": 549
+  },
+  {
+    "SensorID": 1067,
+    "Timestamp": "2024-03-15 21:03:45",
+    "ReadingType": "Pressure",
+    "Value": 234.36,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-04-28 22:18:50",
+    "ReadingType": "Pressure",
+    "Value": 189.17,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1070,
+    "Timestamp": "2024-03-09 13:34:33",
+    "ReadingType": "Vibration",
+    "Value": 402.46,
+    "MachineID": 512
+  },
+  {
+    "SensorID": 1083,
+    "Timestamp": "2024-04-25 13:15:27",
+    "ReadingType": "Pressure",
+    "Value": 120.54,
+    "MachineID": 504
+  },
+  {
+    "SensorID": 1060,
+    "Timestamp": "2024-04-02 11:08:14",
+    "ReadingType": "Pressure",
+    "Value": 462.95,
+    "MachineID": 528
+  },
+  {
+    "SensorID": 1080,
+    "Timestamp": "2024-03-07 12:11:13",
+    "ReadingType": "Temperature",
+    "Value": 290.47,
+    "MachineID": 523
+  },
+  {
+    "SensorID": 1050,
+    "Timestamp": "2024-01-19 05:44:56",
+    "ReadingType": "Pressure",
+    "Value": 344.29,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1069,
+    "Timestamp": "2024-03-13 19:03:45",
+    "ReadingType": "Temperature",
+    "Value": 139.86,
+    "MachineID": 509
+  },
+  {
+    "SensorID": 1081,
+    "Timestamp": "2024-01-23 19:05:06",
+    "ReadingType": "Vibration",
+    "Value": 111.77,
+    "MachineID": 503
+  },
+  {
+    "SensorID": 1023,
+    "Timestamp": "2024-01-26 10:52:12",
+    "ReadingType": "Vibration",
+    "Value": 456.57,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1096,
+    "Timestamp": "2024-03-25 02:09:23",
+    "ReadingType": "Vibration",
+    "Value": 261.07,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1085,
+    "Timestamp": "2024-04-25 07:08:24",
+    "ReadingType": "Vibration",
+    "Value": 381.84,
+    "MachineID": 535
+  },
+  {
+    "SensorID": 1092,
+    "Timestamp": "2024-01-19 16:02:52",
+    "ReadingType": "Vibration",
+    "Value": 403.13,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1032,
+    "Timestamp": "2024-03-12 18:41:08",
+    "ReadingType": "Pressure",
+    "Value": 367.92,
+    "MachineID": 532
+  },
+  {
+    "SensorID": 1090,
+    "Timestamp": "2024-03-16 13:17:45",
+    "ReadingType": "Pressure",
+    "Value": 107.92,
+    "MachineID": 515
+  },
+  {
+    "SensorID": 1058,
+    "Timestamp": "2024-03-10 10:01:46",
+    "ReadingType": "Vibration",
+    "Value": 23.4,
+    "MachineID": 517
+  },
+  {
+    "SensorID": 1083,
+    "Timestamp": "2024-01-14 14:36:58",
+    "ReadingType": "Pressure",
+    "Value": 441.91,
+    "MachineID": 539
+  },
+  {
+    "SensorID": 1024,
+    "Timestamp": "2024-02-23 20:54:08",
+    "ReadingType": "Vibration",
+    "Value": 10.14,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1075,
+    "Timestamp": "2024-04-21 16:36:53",
+    "ReadingType": "Vibration",
+    "Value": 52.1,
+    "MachineID": 520
+  },
+  {
+    "SensorID": 1097,
+    "Timestamp": "2024-02-07 03:27:42",
+    "ReadingType": "Pressure",
+    "Value": 30.4,
+    "MachineID": 521
+  },
+  {
+    "SensorID": 1004,
+    "Timestamp": "2024-01-11 09:19:29",
+    "ReadingType": "Temperature",
+    "Value": 235.66,
+    "MachineID": 515
+  },
+  {
+    "SensorID": 1015,
+    "Timestamp": "2024-02-12 23:06:36",
+    "ReadingType": "Pressure",
+    "Value": 146.13,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1000,
+    "Timestamp": "2024-04-18 17:01:35",
+    "ReadingType": "Pressure",
+    "Value": 421.25,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1055,
+    "Timestamp": "2024-04-29 21:24:20",
+    "ReadingType": "Vibration",
+    "Value": 35.56,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1038,
+    "Timestamp": "2024-02-25 13:45:53",
+    "ReadingType": "Vibration",
+    "Value": 284.82,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1011,
+    "Timestamp": "2024-03-05 12:39:11",
+    "ReadingType": "Pressure",
+    "Value": 350.42,
+    "MachineID": 544
+  },
+  {
+    "SensorID": 1055,
+    "Timestamp": "2024-02-10 11:45:28",
+    "ReadingType": "Vibration",
+    "Value": 59.11,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1056,
+    "Timestamp": "2024-04-05 23:25:27",
+    "ReadingType": "Vibration",
+    "Value": 494.14,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1018,
+    "Timestamp": "2024-03-09 18:26:01",
+    "ReadingType": "Vibration",
+    "Value": 393.36,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1061,
+    "Timestamp": "2024-02-05 22:12:58",
+    "ReadingType": "Temperature",
+    "Value": 349.94,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1023,
+    "Timestamp": "2024-01-20 16:39:08",
+    "ReadingType": "Pressure",
+    "Value": 342.25,
+    "MachineID": 528
+  },
+  {
+    "SensorID": 1010,
+    "Timestamp": "2024-04-19 19:20:52",
+    "ReadingType": "Temperature",
+    "Value": 248.19,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1082,
+    "Timestamp": "2024-03-11 04:38:47",
+    "ReadingType": "Pressure",
+    "Value": 339.7,
+    "MachineID": 541
+  },
+  {
+    "SensorID": 1091,
+    "Timestamp": "2024-04-11 18:55:58",
+    "ReadingType": "Vibration",
+    "Value": 79.28,
+    "MachineID": 531
+  },
+  {
+    "SensorID": 1084,
+    "Timestamp": "2024-02-16 10:26:22",
+    "ReadingType": "Pressure",
+    "Value": 80.89,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1036,
+    "Timestamp": "2024-04-13 01:16:07",
+    "ReadingType": "Vibration",
+    "Value": 419.72,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1084,
+    "Timestamp": "2024-04-06 07:11:41",
+    "ReadingType": "Vibration",
+    "Value": 396.26,
+    "MachineID": 508
+  },
+  {
+    "SensorID": 1002,
+    "Timestamp": "2024-04-16 17:42:53",
+    "ReadingType": "Vibration",
+    "Value": 431.43,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1012,
+    "Timestamp": "2024-04-16 13:35:21",
+    "ReadingType": "Pressure",
+    "Value": 472.6,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1040,
+    "Timestamp": "2024-01-14 06:07:37",
+    "ReadingType": "Vibration",
+    "Value": 409.18,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1072,
+    "Timestamp": "2024-04-09 01:40:43",
+    "ReadingType": "Vibration",
+    "Value": 291.88,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1024,
+    "Timestamp": "2024-02-01 04:43:08",
+    "ReadingType": "Pressure",
+    "Value": 63.88,
+    "MachineID": 547
+  },
+  {
+    "SensorID": 1098,
+    "Timestamp": "2024-01-25 19:13:15",
+    "ReadingType": "Pressure",
+    "Value": 284.56,
+    "MachineID": 550
+  },
+  {
+    "SensorID": 1089,
+    "Timestamp": "2024-01-13 07:54:48",
+    "ReadingType": "Temperature",
+    "Value": 202.74,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1094,
+    "Timestamp": "2024-02-23 09:21:04",
+    "ReadingType": "Temperature",
+    "Value": 332.05,
+    "MachineID": 532
+  },
+  {
+    "SensorID": 1055,
+    "Timestamp": "2024-04-13 00:32:11",
+    "ReadingType": "Temperature",
+    "Value": 161.46,
+    "MachineID": 535
+  },
+  {
+    "SensorID": 1063,
+    "Timestamp": "2024-04-20 20:03:38",
+    "ReadingType": "Vibration",
+    "Value": 363.99,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1070,
+    "Timestamp": "2024-01-30 13:47:14",
+    "ReadingType": "Vibration",
+    "Value": 196.35,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1058,
+    "Timestamp": "2024-03-05 18:02:35",
+    "ReadingType": "Pressure",
+    "Value": 339.76,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1023,
+    "Timestamp": "2024-01-18 13:48:01",
+    "ReadingType": "Temperature",
+    "Value": 145.18,
+    "MachineID": 530
+  },
+  {
+    "SensorID": 1026,
+    "Timestamp": "2024-04-11 15:16:15",
+    "ReadingType": "Temperature",
+    "Value": 72.72,
+    "MachineID": 522
+  },
+  {
+    "SensorID": 1039,
+    "Timestamp": "2024-03-08 01:53:49",
+    "ReadingType": "Pressure",
+    "Value": 141.74,
+    "MachineID": 517
+  },
+  {
+    "SensorID": 1025,
+    "Timestamp": "2024-04-25 14:42:49",
+    "ReadingType": "Temperature",
+    "Value": 454.76,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1084,
+    "Timestamp": "2024-03-20 06:39:59",
+    "ReadingType": "Pressure",
+    "Value": 195.31,
+    "MachineID": 521
+  },
+  {
+    "SensorID": 1056,
+    "Timestamp": "2024-01-31 13:54:22",
+    "ReadingType": "Pressure",
+    "Value": 377.22,
+    "MachineID": 531
+  },
+  {
+    "SensorID": 1045,
+    "Timestamp": "2024-01-12 14:54:36",
+    "ReadingType": "Vibration",
+    "Value": 290.99,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1075,
+    "Timestamp": "2024-03-12 11:05:04",
+    "ReadingType": "Pressure",
+    "Value": 442.39,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1046,
+    "Timestamp": "2024-03-21 13:48:39",
+    "ReadingType": "Temperature",
+    "Value": 11.38,
+    "MachineID": 531
+  },
+  {
+    "SensorID": 1021,
+    "Timestamp": "2024-03-31 17:36:19",
+    "ReadingType": "Pressure",
+    "Value": 89.26,
+    "MachineID": 547
+  },
+  {
+    "SensorID": 1000,
+    "Timestamp": "2024-01-27 05:24:33",
+    "ReadingType": "Temperature",
+    "Value": 24.85,
+    "MachineID": 530
+  },
+  {
+    "SensorID": 1054,
+    "Timestamp": "2024-04-08 08:16:41",
+    "ReadingType": "Temperature",
+    "Value": 24.8,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1011,
+    "Timestamp": "2024-03-01 09:55:57",
+    "ReadingType": "Pressure",
+    "Value": 479.49,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1020,
+    "Timestamp": "2024-03-15 02:17:46",
+    "ReadingType": "Pressure",
+    "Value": 459.78,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1052,
+    "Timestamp": "2024-02-02 23:32:49",
+    "ReadingType": "Vibration",
+    "Value": 329.43,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1058,
+    "Timestamp": "2024-03-30 11:18:30",
+    "ReadingType": "Temperature",
+    "Value": 13.85,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1074,
+    "Timestamp": "2024-02-18 21:03:03",
+    "ReadingType": "Temperature",
+    "Value": 242.14,
+    "MachineID": 515
+  },
+  {
+    "SensorID": 1037,
+    "Timestamp": "2024-04-16 12:21:51",
+    "ReadingType": "Vibration",
+    "Value": 321.38,
+    "MachineID": 535
+  },
+  {
+    "SensorID": 1092,
+    "Timestamp": "2024-04-03 22:25:07",
+    "ReadingType": "Temperature",
+    "Value": 380.07,
+    "MachineID": 523
+  },
+  {
+    "SensorID": 1062,
+    "Timestamp": "2024-03-29 15:56:53",
+    "ReadingType": "Pressure",
+    "Value": 326.74,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1095,
+    "Timestamp": "2024-01-03 09:28:00",
+    "ReadingType": "Vibration",
+    "Value": 238.18,
+    "MachineID": 532
+  },
+  {
+    "SensorID": 1035,
+    "Timestamp": "2024-02-28 19:45:27",
+    "ReadingType": "Temperature",
+    "Value": 251.78,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1034,
+    "Timestamp": "2024-03-07 18:32:47",
+    "ReadingType": "Vibration",
+    "Value": 185.25,
+    "MachineID": 512
+  },
+  {
+    "SensorID": 1048,
+    "Timestamp": "2024-02-28 16:08:50",
+    "ReadingType": "Pressure",
+    "Value": 481.36,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1082,
+    "Timestamp": "2024-02-08 08:59:48",
+    "ReadingType": "Pressure",
+    "Value": 459.4,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1044,
+    "Timestamp": "2024-02-21 14:27:25",
+    "ReadingType": "Pressure",
+    "Value": 153.39,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1044,
+    "Timestamp": "2024-04-06 06:18:34",
+    "ReadingType": "Temperature",
+    "Value": 88.99,
+    "MachineID": 515
+  },
+  {
+    "SensorID": 1069,
+    "Timestamp": "2024-02-24 16:42:43",
+    "ReadingType": "Vibration",
+    "Value": 321.44,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1058,
+    "Timestamp": "2024-04-17 07:54:52",
+    "ReadingType": "Temperature",
+    "Value": 306.95,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1045,
+    "Timestamp": "2024-01-18 20:09:24",
+    "ReadingType": "Vibration",
+    "Value": 59.34,
+    "MachineID": 547
+  },
+  {
+    "SensorID": 1040,
+    "Timestamp": "2024-02-08 06:57:32",
+    "ReadingType": "Vibration",
+    "Value": 16.48,
+    "MachineID": 517
+  },
+  {
+    "SensorID": 1052,
+    "Timestamp": "2024-04-24 04:55:24",
+    "ReadingType": "Vibration",
+    "Value": 350.23,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1089,
+    "Timestamp": "2024-04-11 18:00:38",
+    "ReadingType": "Pressure",
+    "Value": 134.74,
+    "MachineID": 512
+  },
+  {
+    "SensorID": 1035,
+    "Timestamp": "2024-03-24 04:16:55",
+    "ReadingType": "Vibration",
+    "Value": 318.04,
+    "MachineID": 517
+  },
+  {
+    "SensorID": 1001,
+    "Timestamp": "2024-04-05 14:41:16",
+    "ReadingType": "Pressure",
+    "Value": 99.94,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1004,
+    "Timestamp": "2024-02-19 04:46:18",
+    "ReadingType": "Pressure",
+    "Value": 169.1,
+    "MachineID": 507
+  },
+  {
+    "SensorID": 1077,
+    "Timestamp": "2024-01-29 22:21:41",
+    "ReadingType": "Pressure",
+    "Value": 426.06,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1093,
+    "Timestamp": "2024-03-10 03:17:16",
+    "ReadingType": "Temperature",
+    "Value": 119.72,
+    "MachineID": 508
+  },
+  {
+    "SensorID": 1070,
+    "Timestamp": "2024-04-08 15:02:38",
+    "ReadingType": "Vibration",
+    "Value": 476.71,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1033,
+    "Timestamp": "2024-04-14 08:45:59",
+    "ReadingType": "Pressure",
+    "Value": 49.94,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1002,
+    "Timestamp": "2024-03-03 14:51:36",
+    "ReadingType": "Pressure",
+    "Value": 439.73,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1045,
+    "Timestamp": "2024-03-25 05:52:10",
+    "ReadingType": "Vibration",
+    "Value": 218.33,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1007,
+    "Timestamp": "2024-01-10 00:29:05",
+    "ReadingType": "Pressure",
+    "Value": 255.88,
+    "MachineID": 528
+  },
+  {
+    "SensorID": 1057,
+    "Timestamp": "2024-01-06 14:53:52",
+    "ReadingType": "Temperature",
+    "Value": 470.47,
+    "MachineID": 544
+  },
+  {
+    "SensorID": 1047,
+    "Timestamp": "2024-01-09 02:20:55",
+    "ReadingType": "Pressure",
+    "Value": 88.63,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1024,
+    "Timestamp": "2024-02-02 07:19:02",
+    "ReadingType": "Vibration",
+    "Value": 140.83,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1076,
+    "Timestamp": "2024-04-15 00:57:37",
+    "ReadingType": "Vibration",
+    "Value": 43.98,
+    "MachineID": 523
+  },
+  {
+    "SensorID": 1077,
+    "Timestamp": "2024-04-27 06:48:02",
+    "ReadingType": "Vibration",
+    "Value": 474.11,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1027,
+    "Timestamp": "2024-01-01 17:04:28",
+    "ReadingType": "Pressure",
+    "Value": 466.99,
+    "MachineID": 504
+  },
+  {
+    "SensorID": 1028,
+    "Timestamp": "2024-02-18 00:26:54",
+    "ReadingType": "Temperature",
+    "Value": 130.36,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1084,
+    "Timestamp": "2024-02-13 07:04:54",
+    "ReadingType": "Pressure",
+    "Value": 122.86,
+    "MachineID": 505
+  },
+  {
+    "SensorID": 1071,
+    "Timestamp": "2024-04-18 03:54:55",
+    "ReadingType": "Temperature",
+    "Value": 462.3,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1065,
+    "Timestamp": "2024-02-19 23:41:39",
+    "ReadingType": "Vibration",
+    "Value": 231.72,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1068,
+    "Timestamp": "2024-01-30 01:17:01",
+    "ReadingType": "Temperature",
+    "Value": 353.58,
+    "MachineID": 521
+  },
+  {
+    "SensorID": 1093,
+    "Timestamp": "2024-02-08 03:12:42",
+    "ReadingType": "Temperature",
+    "Value": 133.95,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1014,
+    "Timestamp": "2024-03-17 20:16:34",
+    "ReadingType": "Temperature",
+    "Value": 376.15,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1035,
+    "Timestamp": "2024-02-05 22:01:16",
+    "ReadingType": "Vibration",
+    "Value": 447.48,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1056,
+    "Timestamp": "2024-04-13 11:00:44",
+    "ReadingType": "Pressure",
+    "Value": 328.84,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1075,
+    "Timestamp": "2024-01-19 09:34:28",
+    "ReadingType": "Temperature",
+    "Value": 396.95,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1038,
+    "Timestamp": "2024-02-13 21:47:52",
+    "ReadingType": "Pressure",
+    "Value": 432.69,
+    "MachineID": 531
+  },
+  {
+    "SensorID": 1015,
+    "Timestamp": "2024-01-07 06:36:52",
+    "ReadingType": "Pressure",
+    "Value": 377.01,
+    "MachineID": 507
+  },
+  {
+    "SensorID": 1071,
+    "Timestamp": "2024-04-27 19:10:19",
+    "ReadingType": "Vibration",
+    "Value": 138.59,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1046,
+    "Timestamp": "2024-03-01 20:40:10",
+    "ReadingType": "Vibration",
+    "Value": 33.78,
+    "MachineID": 502
+  },
+  {
+    "SensorID": 1007,
+    "Timestamp": "2024-03-25 06:03:38",
+    "ReadingType": "Pressure",
+    "Value": 67.07,
+    "MachineID": 504
+  },
+  {
+    "SensorID": 1097,
+    "Timestamp": "2024-03-15 05:00:14",
+    "ReadingType": "Pressure",
+    "Value": 417.41,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1064,
+    "Timestamp": "2024-03-18 19:10:50",
+    "ReadingType": "Pressure",
+    "Value": 475.83,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1070,
+    "Timestamp": "2024-02-06 08:53:44",
+    "ReadingType": "Temperature",
+    "Value": 99.19,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1054,
+    "Timestamp": "2024-04-13 23:53:26",
+    "ReadingType": "Temperature",
+    "Value": 271.06,
+    "MachineID": 508
+  },
+  {
+    "SensorID": 1089,
+    "Timestamp": "2024-04-24 07:26:31",
+    "ReadingType": "Temperature",
+    "Value": 49.69,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1090,
+    "Timestamp": "2024-02-22 18:22:50",
+    "ReadingType": "Pressure",
+    "Value": 381.52,
+    "MachineID": 504
+  },
+  {
+    "SensorID": 1045,
+    "Timestamp": "2024-01-11 19:53:31",
+    "ReadingType": "Vibration",
+    "Value": 273.93,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1065,
+    "Timestamp": "2024-03-08 02:03:47",
+    "ReadingType": "Temperature",
+    "Value": 26.95,
+    "MachineID": 532
+  },
+  {
+    "SensorID": 1080,
+    "Timestamp": "2024-02-28 13:06:29",
+    "ReadingType": "Temperature",
+    "Value": 439.85,
+    "MachineID": 545
+  },
+  {
+    "SensorID": 1010,
+    "Timestamp": "2024-03-13 15:24:35",
+    "ReadingType": "Vibration",
+    "Value": 480.16,
+    "MachineID": 542
+  },
+  {
+    "SensorID": 1017,
+    "Timestamp": "2024-02-05 14:35:58",
+    "ReadingType": "Pressure",
+    "Value": 136.47,
+    "MachineID": 521
+  },
+  {
+    "SensorID": 1050,
+    "Timestamp": "2024-01-26 22:57:26",
+    "ReadingType": "Temperature",
+    "Value": 273.4,
+    "MachineID": 504
+  },
+  {
+    "SensorID": 1099,
+    "Timestamp": "2024-03-09 17:38:18",
+    "ReadingType": "Temperature",
+    "Value": 358.23,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1013,
+    "Timestamp": "2024-01-19 11:09:42",
+    "ReadingType": "Vibration",
+    "Value": 231.67,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1051,
+    "Timestamp": "2024-03-24 03:06:17",
+    "ReadingType": "Vibration",
+    "Value": 253.14,
+    "MachineID": 504
+  },
+  {
+    "SensorID": 1099,
+    "Timestamp": "2024-03-01 03:18:39",
+    "ReadingType": "Temperature",
+    "Value": 158.07,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1019,
+    "Timestamp": "2024-02-16 10:27:30",
+    "ReadingType": "Vibration",
+    "Value": 295.28,
+    "MachineID": 515
+  },
+  {
+    "SensorID": 1097,
+    "Timestamp": "2024-02-15 20:32:15",
+    "ReadingType": "Temperature",
+    "Value": 113.04,
+    "MachineID": 528
+  },
+  {
+    "SensorID": 1089,
+    "Timestamp": "2024-03-12 18:44:01",
+    "ReadingType": "Pressure",
+    "Value": 199.45,
+    "MachineID": 549
+  },
+  {
+    "SensorID": 1001,
+    "Timestamp": "2024-03-16 13:43:46",
+    "ReadingType": "Temperature",
+    "Value": 118.59,
+    "MachineID": 513
+  },
+  {
+    "SensorID": 1056,
+    "Timestamp": "2024-04-08 00:45:59",
+    "ReadingType": "Vibration",
+    "Value": 380.9,
+    "MachineID": 516
+  },
+  {
+    "SensorID": 1018,
+    "Timestamp": "2024-02-25 00:24:31",
+    "ReadingType": "Vibration",
+    "Value": 431.23,
+    "MachineID": 539
+  },
+  {
+    "SensorID": 1042,
+    "Timestamp": "2024-01-08 07:19:01",
+    "ReadingType": "Pressure",
+    "Value": 119.5,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1053,
+    "Timestamp": "2024-02-28 06:45:55",
+    "ReadingType": "Temperature",
+    "Value": 309.12,
+    "MachineID": 534
+  },
+  {
+    "SensorID": 1049,
+    "Timestamp": "2024-04-29 09:14:55",
+    "ReadingType": "Vibration",
+    "Value": 161.74,
+    "MachineID": 541
+  },
+  {
+    "SensorID": 1067,
+    "Timestamp": "2024-01-04 04:12:32",
+    "ReadingType": "Pressure",
+    "Value": 398.93,
+    "MachineID": 521
+  },
+  {
+    "SensorID": 1010,
+    "Timestamp": "2024-02-21 15:50:15",
+    "ReadingType": "Temperature",
+    "Value": 175.04,
+    "MachineID": 514
+  },
+  {
+    "SensorID": 1024,
+    "Timestamp": "2024-01-25 13:57:22",
+    "ReadingType": "Temperature",
+    "Value": 124.94,
+    "MachineID": 527
+  },
+  {
+    "SensorID": 1052,
+    "Timestamp": "2024-01-28 12:26:54",
+    "ReadingType": "Pressure",
+    "Value": 478.21,
+    "MachineID": 518
+  },
+  {
+    "SensorID": 1013,
+    "Timestamp": "2024-03-14 10:59:04",
+    "ReadingType": "Pressure",
+    "Value": 335.11,
+    "MachineID": 547
+  },
+  {
+    "SensorID": 1007,
+    "Timestamp": "2024-01-10 16:35:28",
+    "ReadingType": "Temperature",
+    "Value": 103.66,
+    "MachineID": 501
+  },
+  {
+    "SensorID": 1088,
+    "Timestamp": "2024-04-23 12:00:21",
+    "ReadingType": "Temperature",
+    "Value": 342.37,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1018,
+    "Timestamp": "2024-02-17 16:31:05",
+    "ReadingType": "Temperature",
+    "Value": 340.21,
+    "MachineID": 550
+  },
+  {
+    "SensorID": 1062,
+    "Timestamp": "2024-03-20 19:04:14",
+    "ReadingType": "Temperature",
+    "Value": 467.87,
+    "MachineID": 535
+  },
+  {
+    "SensorID": 1047,
+    "Timestamp": "2024-01-19 02:11:10",
+    "ReadingType": "Vibration",
+    "Value": 192.54,
+    "MachineID": 518
+  },
+  {
+    "SensorID": 1080,
+    "Timestamp": "2024-01-12 17:07:35",
+    "ReadingType": "Pressure",
+    "Value": 134.92,
+    "MachineID": 535
+  },
+  {
+    "SensorID": 1000,
+    "Timestamp": "2024-04-02 00:42:21",
+    "ReadingType": "Temperature",
+    "Value": 379.06,
+    "MachineID": 536
+  },
+  {
+    "SensorID": 1092,
+    "Timestamp": "2024-02-01 23:54:38",
+    "ReadingType": "Vibration",
+    "Value": 159.24,
+    "MachineID": 533
+  },
+  {
+    "SensorID": 1016,
+    "Timestamp": "2024-03-21 15:41:58",
+    "ReadingType": "Pressure",
+    "Value": 86.28,
+    "MachineID": 548
+  },
+  {
+    "SensorID": 1087,
+    "Timestamp": "2024-04-21 10:40:11",
+    "ReadingType": "Vibration",
+    "Value": 488.18,
+    "MachineID": 506
+  },
+  {
+    "SensorID": 1060,
+    "Timestamp": "2024-03-20 00:15:55",
+    "ReadingType": "Pressure",
+    "Value": 23.51,
+    "MachineID": 500
+  },
+  {
+    "SensorID": 1066,
+    "Timestamp": "2024-01-06 02:16:51",
+    "ReadingType": "Vibration",
+    "Value": 115.66,
+    "MachineID": 540
+  },
+  {
+    "SensorID": 1063,
+    "Timestamp": "2024-01-22 13:26:13",
+    "ReadingType": "Temperature",
+    "Value": 249.2,
+    "MachineID": 507
+  },
+  {
+    "SensorID": 1041,
+    "Timestamp": "2024-01-30 05:44:32",
+    "ReadingType": "Vibration",
+    "Value": 378.43,
+    "MachineID": 539
+  },
+  {
+    "SensorID": 1081,
+    "Timestamp": "2024-02-16 05:57:01",
+    "ReadingType": "Temperature",
+    "Value": 263.85,
+    "MachineID": 524
+  },
+  {
+    "SensorID": 1047,
+    "Timestamp": "2024-03-31 00:09:00",
+    "ReadingType": "Temperature",
+    "Value": 281.67,
+    "MachineID": 511
+  },
+  {
+    "SensorID": 1076,
+    "Timestamp": "2024-04-10 09:29:31",
+    "ReadingType": "Pressure",
+    "Value": 253.89,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1015,
+    "Timestamp": "2024-01-09 07:08:56",
+    "ReadingType": "Pressure",
+    "Value": 208.05,
+    "MachineID": 523
+  },
+  {
+    "SensorID": 1002,
+    "Timestamp": "2024-02-04 02:10:26",
+    "ReadingType": "Vibration",
+    "Value": 203.33,
+    "MachineID": 544
+  },
+  {
+    "SensorID": 1041,
+    "Timestamp": "2024-01-30 01:56:46",
+    "ReadingType": "Pressure",
+    "Value": 161.6,
+    "MachineID": 525
+  },
+  {
+    "SensorID": 1081,
+    "Timestamp": "2024-03-19 18:10:13",
+    "ReadingType": "Temperature",
+    "Value": 298.57,
+    "MachineID": 547
+  },
+  {
+    "SensorID": 1073,
+    "Timestamp": "2024-02-03 16:48:49",
+    "ReadingType": "Pressure",
+    "Value": 326.15,
+    "MachineID": 535
+  },
+  {
+    "SensorID": 1038,
+    "Timestamp": "2024-04-12 09:15:37",
+    "ReadingType": "Vibration",
+    "Value": 384.4,
+    "MachineID": 543
+  },
+  {
+    "SensorID": 1037,
+    "Timestamp": "2024-04-15 08:36:43",
+    "ReadingType": "Pressure",
+    "Value": 240.12,
+    "MachineID": 544
+  },
+  {
+    "SensorID": 1024,
+    "Timestamp": "2024-03-31 23:13:30",
+    "ReadingType": "Temperature",
+    "Value": 82.76,
+    "MachineID": 529
+  },
+  {
+    "SensorID": 1087,
+    "Timestamp": "2024-01-29 03:06:50",
+    "ReadingType": "Vibration",
+    "Value": 68.74,
+    "MachineID": 510
+  },
+  {
+    "SensorID": 1014,
+    "Timestamp": "2024-01-31 22:03:12",
+    "ReadingType": "Pressure",
+    "Value": 429.88,
+    "MachineID": 537
+  },
+  {
+    "SensorID": 1054,
+    "Timestamp": "2024-03-26 09:04:29",
+    "ReadingType": "Vibration",
+    "Value": 417.24,
+    "MachineID": 546
+  },
+  {
+    "SensorID": 1022,
+    "Timestamp": "2024-04-16 13:49:32",
+    "ReadingType": "Pressure",
+    "Value": 464.0,
+    "MachineID": 541
+  },
+  {
+    "SensorID": 1055,
+    "Timestamp": "2024-02-25 18:22:04",
+    "ReadingType": "Vibration",
+    "Value": 205.78,
+    "MachineID": 545
+  },
+  {
+    "SensorID": 1057,
+    "Timestamp": "2024-03-07 10:52:32",
+    "ReadingType": "Vibration",
+    "Value": 311.71,
+    "MachineID": 523
+  },
+  {
+    "SensorID": 1069,
+    "Timestamp": "2024-04-18 15:13:50",
+    "ReadingType": "Temperature",
+    "Value": 416.06,
+    "MachineID": 512
+  },
+  {
+    "SensorID": 1086,
+    "Timestamp": "2024-03-19 14:42:44",
+    "ReadingType": "Vibration",
+    "Value": 57.36,
+    "MachineID": 548
+  }
+]
